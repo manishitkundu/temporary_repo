@@ -1,0 +1,3202 @@
+[
+    {
+        "data": {
+            "prompt": "I feel like a lovesick schoolgirl who can not come to terms with a breakup.",
+            "images": [
+                {
+                    "value": "id001#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/I feel like a lovesick schoolgirl who can not come to terms with a breakup..png'/>"
+                },
+                {
+                    "value": "id002#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/I feel like a lovesick schoolgirl who can not come to terms with a breakup..png'/>"
+                },
+                {
+                    "value": "id003#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/I feel like a lovesick schoolgirl who can not come to terms with a breakup..png'/>"
+                },
+                {
+                    "value": "id004#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/I feel like a lovesick schoolgirl who can not come to terms with a breakup..png'/>"
+                },
+                {
+                    "value": "id005#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/I feel like a lovesick schoolgirl who can not come to terms with a breakup..png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "My baseball coach is an ogre.",
+            "images": [
+                {
+                    "value": "id006#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/My baseball coach is an ogre..png'/>"
+                },
+                {
+                    "value": "id007#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/My baseball coach is an ogre..png'/>"
+                },
+                {
+                    "value": "id008#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/My baseball coach is an ogre..png'/>"
+                },
+                {
+                    "value": "id009#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/My baseball coach is an ogre..png'/>"
+                },
+                {
+                    "value": "id010#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/My baseball coach is an ogre..png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "The air within the pipe was like an old stone cellar on a humid day.",
+            "images": [
+                {
+                    "value": "id011#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/The air within the pipe was like an old stone cellar on a humid day..png'/>"
+                },
+                {
+                    "value": "id012#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/The air within the pipe was like an old stone cellar on a humid day..png'/>"
+                },
+                {
+                    "value": "id013#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/The air within the pipe was like an old stone cellar on a humid day..png'/>"
+                },
+                {
+                    "value": "id014#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/The air within the pipe was like an old stone cellar on a humid day..png'/>"
+                },
+                {
+                    "value": "id015#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/The air within the pipe was like an old stone cellar on a humid day..png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "His devotion to his sick wife condemned him to a lonely existence.",
+            "images": [
+                {
+                    "value": "id016#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/His devotion to his sick wife condemned him to a lonely existence..png'/>"
+                },
+                {
+                    "value": "id017#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/His devotion to his sick wife condemned him to a lonely existence..png'/>"
+                },
+                {
+                    "value": "id018#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/His devotion to his sick wife condemned him to a lonely existence..png'/>"
+                },
+                {
+                    "value": "id019#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/His devotion to his sick wife condemned him to a lonely existence..png'/>"
+                },
+                {
+                    "value": "id020#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/His devotion to his sick wife condemned him to a lonely existence..png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "If you are drowning in a sea of minor problems you cannot focus on what matters.",
+            "images": [
+                {
+                    "value": "id021#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/If you are drowning in a sea of minor problems you cannot focus on what matters..png'/>"
+                },
+                {
+                    "value": "id022#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/If you are drowning in a sea of minor problems you cannot focus on what matters..png'/>"
+                },
+                {
+                    "value": "id023#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/If you are drowning in a sea of minor problems you cannot focus on what matters..png'/>"
+                },
+                {
+                    "value": "id024#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/If you are drowning in a sea of minor problems you cannot focus on what matters..png'/>"
+                },
+                {
+                    "value": "id025#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/If you are drowning in a sea of minor problems you cannot focus on what matters..png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "She had to tend to her job and her children.",
+            "images": [
+                {
+                    "value": "id026#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/She had to tend to her job and her children..png'/>"
+                },
+                {
+                    "value": "id027#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/She had to tend to her job and her children..png'/>"
+                },
+                {
+                    "value": "id028#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/She had to tend to her job and her children..png'/>"
+                },
+                {
+                    "value": "id029#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/She had to tend to her job and her children..png'/>"
+                },
+                {
+                    "value": "id030#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/She had to tend to her job and her children..png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "She was sure she was living this fantasy romance and kept deluding herself.",
+            "images": [
+                {
+                    "value": "id031#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/She was sure she was living this fantasy romance and kept deluding herself..png'/>"
+                },
+                {
+                    "value": "id032#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/She was sure she was living this fantasy romance and kept deluding herself..png'/>"
+                },
+                {
+                    "value": "id033#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/She was sure she was living this fantasy romance and kept deluding herself..png'/>"
+                },
+                {
+                    "value": "id034#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/She was sure she was living this fantasy romance and kept deluding herself..png'/>"
+                },
+                {
+                    "value": "id035#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/She was sure she was living this fantasy romance and kept deluding herself..png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "You'd better keep away from Bill today because he's in a black mood.",
+            "images": [
+                {
+                    "value": "id036#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/You'd better keep away from Bill today because he's in a black mood..png'/>"
+                },
+                {
+                    "value": "id037#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/You'd better keep away from Bill today because he's in a black mood..png'/>"
+                },
+                {
+                    "value": "id038#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/You'd better keep away from Bill today because he's in a black mood..png'/>"
+                },
+                {
+                    "value": "id039#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/You'd better keep away from Bill today because he's in a black mood..png'/>"
+                },
+                {
+                    "value": "id040#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/You'd better keep away from Bill today because he's in a black mood..png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "Dawn breaks open like a wound that bleeds afresh",
+            "images": [
+                {
+                    "value": "id041#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/Dawn breaks open like a wound that bleeds afresh.png'/>"
+                },
+                {
+                    "value": "id042#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/Dawn breaks open like a wound that bleeds afresh.png'/>"
+                },
+                {
+                    "value": "id043#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/Dawn breaks open like a wound that bleeds afresh.png'/>"
+                },
+                {
+                    "value": "id044#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/Dawn breaks open like a wound that bleeds afresh.png'/>"
+                },
+                {
+                    "value": "id045#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/Dawn breaks open like a wound that bleeds afresh.png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "Fear had changed him to a shaken jelly.",
+            "images": [
+                {
+                    "value": "id046#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/Fear had changed him to a shaken jelly..png'/>"
+                },
+                {
+                    "value": "id047#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/Fear had changed him to a shaken jelly..png'/>"
+                },
+                {
+                    "value": "id048#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/Fear had changed him to a shaken jelly..png'/>"
+                },
+                {
+                    "value": "id049#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/Fear had changed him to a shaken jelly..png'/>"
+                },
+                {
+                    "value": "id050#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/Fear had changed him to a shaken jelly..png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "I find it a constant struggle to shut my brain off sometimes.",
+            "images": [
+                {
+                    "value": "id051#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/I find it a constant struggle to shut my brain off sometimes..png'/>"
+                },
+                {
+                    "value": "id052#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/I find it a constant struggle to shut my brain off sometimes..png'/>"
+                },
+                {
+                    "value": "id053#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/I find it a constant struggle to shut my brain off sometimes..png'/>"
+                },
+                {
+                    "value": "id054#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/I find it a constant struggle to shut my brain off sometimes..png'/>"
+                },
+                {
+                    "value": "id055#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/I find it a constant struggle to shut my brain off sometimes..png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "His anger bottled up inside.",
+            "images": [
+                {
+                    "value": "id056#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/His anger bottled up inside..png'/>"
+                },
+                {
+                    "value": "id057#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/His anger bottled up inside..png'/>"
+                },
+                {
+                    "value": "id058#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/His anger bottled up inside..png'/>"
+                },
+                {
+                    "value": "id059#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/His anger bottled up inside..png'/>"
+                },
+                {
+                    "value": "id060#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/His anger bottled up inside..png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "His eyes danced for a moment and I caught something like a lighter sparking right before it jumps to full flame.",
+            "images": [
+                {
+                    "value": "id061#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/His eyes danced for a moment and I caught something like a lighter sparking right before it jumps to full flame..png'/>"
+                },
+                {
+                    "value": "id062#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/His eyes danced for a moment and I caught something like a lighter sparking right before it jumps to full flame..png'/>"
+                },
+                {
+                    "value": "id063#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/His eyes danced for a moment and I caught something like a lighter sparking right before it jumps to full flame..png'/>"
+                },
+                {
+                    "value": "id064#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/His eyes danced for a moment and I caught something like a lighter sparking right before it jumps to full flame..png'/>"
+                },
+                {
+                    "value": "id065#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/His eyes danced for a moment and I caught something like a lighter sparking right before it jumps to full flame..png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "I really think you\u2019re barking up the wrong tree.",
+            "images": [
+                {
+                    "value": "id066#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/I really think you\u2019re barking up the wrong tree..png'/>"
+                },
+                {
+                    "value": "id067#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/I really think you\u2019re barking up the wrong tree..png'/>"
+                },
+                {
+                    "value": "id068#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/I really think you\u2019re barking up the wrong tree..png'/>"
+                },
+                {
+                    "value": "id069#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/I really think you\u2019re barking up the wrong tree..png'/>"
+                },
+                {
+                    "value": "id070#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/I really think you\u2019re barking up the wrong tree..png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "Though the distance I have to cover is short, it feels like crawling through the desert.",
+            "images": [
+                {
+                    "value": "id071#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/Though the distance I have to cover is short, it feels like crawling through the desert..png'/>"
+                },
+                {
+                    "value": "id072#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/Though the distance I have to cover is short, it feels like crawling through the desert..png'/>"
+                },
+                {
+                    "value": "id073#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/Though the distance I have to cover is short, it feels like crawling through the desert..png'/>"
+                },
+                {
+                    "value": "id074#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/Though the distance I have to cover is short, it feels like crawling through the desert..png'/>"
+                },
+                {
+                    "value": "id075#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/Though the distance I have to cover is short, it feels like crawling through the desert..png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "Kyle looked at the test with a stare as blank as his notebook",
+            "images": [
+                {
+                    "value": "id076#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/Kyle looked at the test with a stare as blank as his notebook.png'/>"
+                },
+                {
+                    "value": "id077#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/Kyle looked at the test with a stare as blank as his notebook.png'/>"
+                },
+                {
+                    "value": "id078#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/Kyle looked at the test with a stare as blank as his notebook.png'/>"
+                },
+                {
+                    "value": "id079#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/Kyle looked at the test with a stare as blank as his notebook.png'/>"
+                },
+                {
+                    "value": "id080#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/Kyle looked at the test with a stare as blank as his notebook.png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "His playing erected him as a Romantic.",
+            "images": [
+                {
+                    "value": "id081#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/His playing erected him as a Romantic..png'/>"
+                },
+                {
+                    "value": "id082#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/His playing erected him as a Romantic..png'/>"
+                },
+                {
+                    "value": "id083#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/His playing erected him as a Romantic..png'/>"
+                },
+                {
+                    "value": "id084#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/His playing erected him as a Romantic..png'/>"
+                },
+                {
+                    "value": "id085#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/His playing erected him as a Romantic..png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "She is a dog when she eats",
+            "images": [
+                {
+                    "value": "id086#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/She is a dog when she eats.png'/>"
+                },
+                {
+                    "value": "id087#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/She is a dog when she eats.png'/>"
+                },
+                {
+                    "value": "id088#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/She is a dog when she eats.png'/>"
+                },
+                {
+                    "value": "id089#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/She is a dog when she eats.png'/>"
+                },
+                {
+                    "value": "id090#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/She is a dog when she eats.png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "Pain is a seed that sprouts growth",
+            "images": [
+                {
+                    "value": "id091#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/Pain is a seed that sprouts growth.png'/>"
+                },
+                {
+                    "value": "id092#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/Pain is a seed that sprouts growth.png'/>"
+                },
+                {
+                    "value": "id093#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/Pain is a seed that sprouts growth.png'/>"
+                },
+                {
+                    "value": "id094#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/Pain is a seed that sprouts growth.png'/>"
+                },
+                {
+                    "value": "id095#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/Pain is a seed that sprouts growth.png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "You are my sunshine.",
+            "images": [
+                {
+                    "value": "id096#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/You are my sunshine..png'/>"
+                },
+                {
+                    "value": "id097#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/You are my sunshine..png'/>"
+                },
+                {
+                    "value": "id098#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/You are my sunshine..png'/>"
+                },
+                {
+                    "value": "id099#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/You are my sunshine..png'/>"
+                },
+                {
+                    "value": "id100#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/You are my sunshine..png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "Global warming is a ticking bomb.",
+            "images": [
+                {
+                    "value": "id101#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/Global warming is a ticking bomb..png'/>"
+                },
+                {
+                    "value": "id102#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/Global warming is a ticking bomb..png'/>"
+                },
+                {
+                    "value": "id103#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/Global warming is a ticking bomb..png'/>"
+                },
+                {
+                    "value": "id104#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/Global warming is a ticking bomb..png'/>"
+                },
+                {
+                    "value": "id105#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/Global warming is a ticking bomb..png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "The teapot quivered as the water boiled.",
+            "images": [
+                {
+                    "value": "id106#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/The teapot quivered as the water boiled..png'/>"
+                },
+                {
+                    "value": "id107#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/The teapot quivered as the water boiled..png'/>"
+                },
+                {
+                    "value": "id108#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/The teapot quivered as the water boiled..png'/>"
+                },
+                {
+                    "value": "id109#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/The teapot quivered as the water boiled..png'/>"
+                },
+                {
+                    "value": "id110#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/The teapot quivered as the water boiled..png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "The girl broke into the conversation.",
+            "images": [
+                {
+                    "value": "id111#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/The girl broke into the conversation..png'/>"
+                },
+                {
+                    "value": "id112#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/The girl broke into the conversation..png'/>"
+                },
+                {
+                    "value": "id113#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/The girl broke into the conversation..png'/>"
+                },
+                {
+                    "value": "id114#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/The girl broke into the conversation..png'/>"
+                },
+                {
+                    "value": "id115#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/The girl broke into the conversation..png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "The politician toppled his rival.",
+            "images": [
+                {
+                    "value": "id116#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/The politician toppled his rival..png'/>"
+                },
+                {
+                    "value": "id117#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/The politician toppled his rival..png'/>"
+                },
+                {
+                    "value": "id118#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/The politician toppled his rival..png'/>"
+                },
+                {
+                    "value": "id119#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/The politician toppled his rival..png'/>"
+                },
+                {
+                    "value": "id120#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/The politician toppled his rival..png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "But my heart is a lonely hunter that hunts on a lonely hill.",
+            "images": [
+                {
+                    "value": "id121#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/But my heart is a lonely hunter that hunts on a lonely hill..png'/>"
+                },
+                {
+                    "value": "id122#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/But my heart is a lonely hunter that hunts on a lonely hill..png'/>"
+                },
+                {
+                    "value": "id123#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/But my heart is a lonely hunter that hunts on a lonely hill..png'/>"
+                },
+                {
+                    "value": "id124#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/But my heart is a lonely hunter that hunts on a lonely hill..png'/>"
+                },
+                {
+                    "value": "id125#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/But my heart is a lonely hunter that hunts on a lonely hill..png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "The flowers danced in the gentle breeze.",
+            "images": [
+                {
+                    "value": "id126#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/The flowers danced in the gentle breeze..png'/>"
+                },
+                {
+                    "value": "id127#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/The flowers danced in the gentle breeze..png'/>"
+                },
+                {
+                    "value": "id128#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/The flowers danced in the gentle breeze..png'/>"
+                },
+                {
+                    "value": "id129#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/The flowers danced in the gentle breeze..png'/>"
+                },
+                {
+                    "value": "id130#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/The flowers danced in the gentle breeze..png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "The cold hollows her bones.",
+            "images": [
+                {
+                    "value": "id131#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/The cold hollows her bones..png'/>"
+                },
+                {
+                    "value": "id132#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/The cold hollows her bones..png'/>"
+                },
+                {
+                    "value": "id133#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/The cold hollows her bones..png'/>"
+                },
+                {
+                    "value": "id134#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/The cold hollows her bones..png'/>"
+                },
+                {
+                    "value": "id135#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/The cold hollows her bones..png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "When Ninja Robot Squad came on TV, the boys were glued in their seats.",
+            "images": [
+                {
+                    "value": "id136#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/When Ninja Robot Squad came on TV, the boys were glued in their seats..png'/>"
+                },
+                {
+                    "value": "id137#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/When Ninja Robot Squad came on TV, the boys were glued in their seats..png'/>"
+                },
+                {
+                    "value": "id138#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/When Ninja Robot Squad came on TV, the boys were glued in their seats..png'/>"
+                },
+                {
+                    "value": "id139#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/When Ninja Robot Squad came on TV, the boys were glued in their seats..png'/>"
+                },
+                {
+                    "value": "id140#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/When Ninja Robot Squad came on TV, the boys were glued in their seats..png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "she's light as a freight train",
+            "images": [
+                {
+                    "value": "id141#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/she's light as a freight train.png'/>"
+                },
+                {
+                    "value": "id142#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/she's light as a freight train.png'/>"
+                },
+                {
+                    "value": "id143#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/she's light as a freight train.png'/>"
+                },
+                {
+                    "value": "id144#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/she's light as a freight train.png'/>"
+                },
+                {
+                    "value": "id145#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/she's light as a freight train.png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "The library grew back like ivy on a castle.",
+            "images": [
+                {
+                    "value": "id146#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/The library grew back like ivy on a castle..png'/>"
+                },
+                {
+                    "value": "id147#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/The library grew back like ivy on a castle..png'/>"
+                },
+                {
+                    "value": "id148#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/The library grew back like ivy on a castle..png'/>"
+                },
+                {
+                    "value": "id149#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/The library grew back like ivy on a castle..png'/>"
+                },
+                {
+                    "value": "id150#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/The library grew back like ivy on a castle..png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "She wasn't especially tall, but the aura she gave off was like an unexploded bomb.",
+            "images": [
+                {
+                    "value": "id151#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/She wasn't especially tall, but the aura she gave off was like an unexploded bomb..png'/>"
+                },
+                {
+                    "value": "id152#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/She wasn't especially tall, but the aura she gave off was like an unexploded bomb..png'/>"
+                },
+                {
+                    "value": "id153#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/She wasn't especially tall, but the aura she gave off was like an unexploded bomb..png'/>"
+                },
+                {
+                    "value": "id154#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/She wasn't especially tall, but the aura she gave off was like an unexploded bomb..png'/>"
+                },
+                {
+                    "value": "id155#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/She wasn't especially tall, but the aura she gave off was like an unexploded bomb..png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "We made a truce on the terms of the settlement.",
+            "images": [
+                {
+                    "value": "id156#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/We made a truce on the terms of the settlement..png'/>"
+                },
+                {
+                    "value": "id157#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/We made a truce on the terms of the settlement..png'/>"
+                },
+                {
+                    "value": "id158#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/We made a truce on the terms of the settlement..png'/>"
+                },
+                {
+                    "value": "id159#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/We made a truce on the terms of the settlement..png'/>"
+                },
+                {
+                    "value": "id160#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/We made a truce on the terms of the settlement..png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "The employee swallows her anger.",
+            "images": [
+                {
+                    "value": "id161#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/The employee swallows her anger..png'/>"
+                },
+                {
+                    "value": "id162#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/The employee swallows her anger..png'/>"
+                },
+                {
+                    "value": "id163#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/The employee swallows her anger..png'/>"
+                },
+                {
+                    "value": "id164#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/The employee swallows her anger..png'/>"
+                },
+                {
+                    "value": "id165#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/The employee swallows her anger..png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "He was feeling like a lone survivor returning from the battlefield.",
+            "images": [
+                {
+                    "value": "id166#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/He was feeling like a lone survivor returning from the battlefield..png'/>"
+                },
+                {
+                    "value": "id167#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/He was feeling like a lone survivor returning from the battlefield..png'/>"
+                },
+                {
+                    "value": "id168#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/He was feeling like a lone survivor returning from the battlefield..png'/>"
+                },
+                {
+                    "value": "id169#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/He was feeling like a lone survivor returning from the battlefield..png'/>"
+                },
+                {
+                    "value": "id170#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/He was feeling like a lone survivor returning from the battlefield..png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "The news inflamed your temper.",
+            "images": [
+                {
+                    "value": "id171#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/The news inflamed your temper..png'/>"
+                },
+                {
+                    "value": "id172#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/The news inflamed your temper..png'/>"
+                },
+                {
+                    "value": "id173#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/The news inflamed your temper..png'/>"
+                },
+                {
+                    "value": "id174#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/The news inflamed your temper..png'/>"
+                },
+                {
+                    "value": "id175#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/The news inflamed your temper..png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "The grass is a green sheet",
+            "images": [
+                {
+                    "value": "id176#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/The grass is a green sheet.png'/>"
+                },
+                {
+                    "value": "id177#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/The grass is a green sheet.png'/>"
+                },
+                {
+                    "value": "id178#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/The grass is a green sheet.png'/>"
+                },
+                {
+                    "value": "id179#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/The grass is a green sheet.png'/>"
+                },
+                {
+                    "value": "id180#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/The grass is a green sheet.png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "Her smile lights up my world.",
+            "images": [
+                {
+                    "value": "id181#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/Her smile lights up my world..png'/>"
+                },
+                {
+                    "value": "id182#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/Her smile lights up my world..png'/>"
+                },
+                {
+                    "value": "id183#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/Her smile lights up my world..png'/>"
+                },
+                {
+                    "value": "id184#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/Her smile lights up my world..png'/>"
+                },
+                {
+                    "value": "id185#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/Her smile lights up my world..png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "A mouth explosion",
+            "images": [
+                {
+                    "value": "id186#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/A mouth explosion.png'/>"
+                },
+                {
+                    "value": "id187#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/A mouth explosion.png'/>"
+                },
+                {
+                    "value": "id188#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/A mouth explosion.png'/>"
+                },
+                {
+                    "value": "id189#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/A mouth explosion.png'/>"
+                },
+                {
+                    "value": "id190#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/A mouth explosion.png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "His eyes bore into me like a bunsen burner flame .",
+            "images": [
+                {
+                    "value": "id191#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/His eyes bore into me like a bunsen burner flame ..png'/>"
+                },
+                {
+                    "value": "id192#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/His eyes bore into me like a bunsen burner flame ..png'/>"
+                },
+                {
+                    "value": "id193#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/His eyes bore into me like a bunsen burner flame ..png'/>"
+                },
+                {
+                    "value": "id194#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/His eyes bore into me like a bunsen burner flame ..png'/>"
+                },
+                {
+                    "value": "id195#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/His eyes bore into me like a bunsen burner flame ..png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "For summer and his pleasures take flight on thee.",
+            "images": [
+                {
+                    "value": "id196#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/For summer and his pleasures take flight on thee..png'/>"
+                },
+                {
+                    "value": "id197#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/For summer and his pleasures take flight on thee..png'/>"
+                },
+                {
+                    "value": "id198#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/For summer and his pleasures take flight on thee..png'/>"
+                },
+                {
+                    "value": "id199#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/For summer and his pleasures take flight on thee..png'/>"
+                },
+                {
+                    "value": "id200#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/For summer and his pleasures take flight on thee..png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "For all his words he did not feel any better, he felt like a burrow-baby in the jaws of a whiptail.",
+            "images": [
+                {
+                    "value": "id201#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/For all his words he did not feel any better, he felt like a burrow-baby in the jaws of a whiptail..png'/>"
+                },
+                {
+                    "value": "id202#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/For all his words he did not feel any better, he felt like a burrow-baby in the jaws of a whiptail..png'/>"
+                },
+                {
+                    "value": "id203#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/For all his words he did not feel any better, he felt like a burrow-baby in the jaws of a whiptail..png'/>"
+                },
+                {
+                    "value": "id204#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/For all his words he did not feel any better, he felt like a burrow-baby in the jaws of a whiptail..png'/>"
+                },
+                {
+                    "value": "id205#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/For all his words he did not feel any better, he felt like a burrow-baby in the jaws of a whiptail..png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "The market is being clogged by these operations.",
+            "images": [
+                {
+                    "value": "id206#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/The market is being clogged by these operations..png'/>"
+                },
+                {
+                    "value": "id207#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/The market is being clogged by these operations..png'/>"
+                },
+                {
+                    "value": "id208#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/The market is being clogged by these operations..png'/>"
+                },
+                {
+                    "value": "id209#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/The market is being clogged by these operations..png'/>"
+                },
+                {
+                    "value": "id210#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/The market is being clogged by these operations..png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "The huge waves smacked the small boat and it sank shortly thereafter.",
+            "images": [
+                {
+                    "value": "id211#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/The huge waves smacked the small boat and it sank shortly thereafter..png'/>"
+                },
+                {
+                    "value": "id212#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/The huge waves smacked the small boat and it sank shortly thereafter..png'/>"
+                },
+                {
+                    "value": "id213#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/The huge waves smacked the small boat and it sank shortly thereafter..png'/>"
+                },
+                {
+                    "value": "id214#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/The huge waves smacked the small boat and it sank shortly thereafter..png'/>"
+                },
+                {
+                    "value": "id215#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/The huge waves smacked the small boat and it sank shortly thereafter..png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "and snow lay here and there in patches in the hollow of the banks, like a lady\u2019s gloves forgotten.",
+            "images": [
+                {
+                    "value": "id216#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/and snow lay here and there in patches in the hollow of the banks, like a lady\u2019s gloves forgotten..png'/>"
+                },
+                {
+                    "value": "id217#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/and snow lay here and there in patches in the hollow of the banks, like a lady\u2019s gloves forgotten..png'/>"
+                },
+                {
+                    "value": "id218#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/and snow lay here and there in patches in the hollow of the banks, like a lady\u2019s gloves forgotten..png'/>"
+                },
+                {
+                    "value": "id219#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/and snow lay here and there in patches in the hollow of the banks, like a lady\u2019s gloves forgotten..png'/>"
+                },
+                {
+                    "value": "id220#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/and snow lay here and there in patches in the hollow of the banks, like a lady\u2019s gloves forgotten..png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "When the next tremor of terror tore though me, it made a very physical appearance when I was like a lone leaf in the dead of winter.",
+            "images": [
+                {
+                    "value": "id221#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/When the next tremor of terror tore though me, it made a very physical appearance when I was like a lone leaf in the dead of winter..png'/>"
+                },
+                {
+                    "value": "id222#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/When the next tremor of terror tore though me, it made a very physical appearance when I was like a lone leaf in the dead of winter..png'/>"
+                },
+                {
+                    "value": "id223#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/When the next tremor of terror tore though me, it made a very physical appearance when I was like a lone leaf in the dead of winter..png'/>"
+                },
+                {
+                    "value": "id224#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/When the next tremor of terror tore though me, it made a very physical appearance when I was like a lone leaf in the dead of winter..png'/>"
+                },
+                {
+                    "value": "id225#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/When the next tremor of terror tore though me, it made a very physical appearance when I was like a lone leaf in the dead of winter..png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "Calm down - there's no need to get all steamed up about it.",
+            "images": [
+                {
+                    "value": "id226#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/Calm down - there's no need to get all steamed up about it..png'/>"
+                },
+                {
+                    "value": "id227#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/Calm down - there's no need to get all steamed up about it..png'/>"
+                },
+                {
+                    "value": "id228#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/Calm down - there's no need to get all steamed up about it..png'/>"
+                },
+                {
+                    "value": "id229#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/Calm down - there's no need to get all steamed up about it..png'/>"
+                },
+                {
+                    "value": "id230#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/Calm down - there's no need to get all steamed up about it..png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "Her new job helped her wipe the slate clean.",
+            "images": [
+                {
+                    "value": "id231#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/Her new job helped her wipe the slate clean..png'/>"
+                },
+                {
+                    "value": "id232#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/Her new job helped her wipe the slate clean..png'/>"
+                },
+                {
+                    "value": "id233#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/Her new job helped her wipe the slate clean..png'/>"
+                },
+                {
+                    "value": "id234#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/Her new job helped her wipe the slate clean..png'/>"
+                },
+                {
+                    "value": "id235#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/Her new job helped her wipe the slate clean..png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "He had a veneer of civility from his education, but he was like a cornered pit viper",
+            "images": [
+                {
+                    "value": "id236#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/He had a veneer of civility from his education, but he was like a cornered pit viper.png'/>"
+                },
+                {
+                    "value": "id237#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/He had a veneer of civility from his education, but he was like a cornered pit viper.png'/>"
+                },
+                {
+                    "value": "id238#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/He had a veneer of civility from his education, but he was like a cornered pit viper.png'/>"
+                },
+                {
+                    "value": "id239#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/He had a veneer of civility from his education, but he was like a cornered pit viper.png'/>"
+                },
+                {
+                    "value": "id240#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/He had a veneer of civility from his education, but he was like a cornered pit viper.png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "The guy was a floating whale in the small swimming pool.",
+            "images": [
+                {
+                    "value": "id241#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/The guy was a floating whale in the small swimming pool..png'/>"
+                },
+                {
+                    "value": "id242#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/The guy was a floating whale in the small swimming pool..png'/>"
+                },
+                {
+                    "value": "id243#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/The guy was a floating whale in the small swimming pool..png'/>"
+                },
+                {
+                    "value": "id244#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/The guy was a floating whale in the small swimming pool..png'/>"
+                },
+                {
+                    "value": "id245#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/The guy was a floating whale in the small swimming pool..png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "The wind was a torrent of darkness among the gusty trees",
+            "images": [
+                {
+                    "value": "id246#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/The wind was a torrent of darkness among the gusty trees.png'/>"
+                },
+                {
+                    "value": "id247#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/The wind was a torrent of darkness among the gusty trees.png'/>"
+                },
+                {
+                    "value": "id248#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/The wind was a torrent of darkness among the gusty trees.png'/>"
+                },
+                {
+                    "value": "id249#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/The wind was a torrent of darkness among the gusty trees.png'/>"
+                },
+                {
+                    "value": "id250#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/The wind was a torrent of darkness among the gusty trees.png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "Each blade of grass was a bayonet pointed firmly at our bare feet.",
+            "images": [
+                {
+                    "value": "id251#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/Each blade of grass was a bayonet pointed firmly at our bare feet..png'/>"
+                },
+                {
+                    "value": "id252#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/Each blade of grass was a bayonet pointed firmly at our bare feet..png'/>"
+                },
+                {
+                    "value": "id253#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/Each blade of grass was a bayonet pointed firmly at our bare feet..png'/>"
+                },
+                {
+                    "value": "id254#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/Each blade of grass was a bayonet pointed firmly at our bare feet..png'/>"
+                },
+                {
+                    "value": "id255#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/Each blade of grass was a bayonet pointed firmly at our bare feet..png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "Listen with your heart.",
+            "images": [
+                {
+                    "value": "id256#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/Listen with your heart..png'/>"
+                },
+                {
+                    "value": "id257#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/Listen with your heart..png'/>"
+                },
+                {
+                    "value": "id258#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/Listen with your heart..png'/>"
+                },
+                {
+                    "value": "id259#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/Listen with your heart..png'/>"
+                },
+                {
+                    "value": "id260#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/Listen with your heart..png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "It hung in the sky, like a clean plate at the bottom of a scummy sink.",
+            "images": [
+                {
+                    "value": "id261#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/It hung in the sky, like a clean plate at the bottom of a scummy sink..png'/>"
+                },
+                {
+                    "value": "id262#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/It hung in the sky, like a clean plate at the bottom of a scummy sink..png'/>"
+                },
+                {
+                    "value": "id263#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/It hung in the sky, like a clean plate at the bottom of a scummy sink..png'/>"
+                },
+                {
+                    "value": "id264#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/It hung in the sky, like a clean plate at the bottom of a scummy sink..png'/>"
+                },
+                {
+                    "value": "id265#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/It hung in the sky, like a clean plate at the bottom of a scummy sink..png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "The protagonist Trinity Pierce is a college professor with a murky past who lives and works in Cambridge Massachusetts.",
+            "images": [
+                {
+                    "value": "id266#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/The protagonist Trinity Pierce is a college professor with a murky past who lives and works in Cambridge Massachusetts..png'/>"
+                },
+                {
+                    "value": "id267#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/The protagonist Trinity Pierce is a college professor with a murky past who lives and works in Cambridge Massachusetts..png'/>"
+                },
+                {
+                    "value": "id268#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/The protagonist Trinity Pierce is a college professor with a murky past who lives and works in Cambridge Massachusetts..png'/>"
+                },
+                {
+                    "value": "id269#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/The protagonist Trinity Pierce is a college professor with a murky past who lives and works in Cambridge Massachusetts..png'/>"
+                },
+                {
+                    "value": "id270#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/The protagonist Trinity Pierce is a college professor with a murky past who lives and works in Cambridge Massachusetts..png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "He injected new life into the performance.",
+            "images": [
+                {
+                    "value": "id271#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/He injected new life into the performance..png'/>"
+                },
+                {
+                    "value": "id272#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/He injected new life into the performance..png'/>"
+                },
+                {
+                    "value": "id273#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/He injected new life into the performance..png'/>"
+                },
+                {
+                    "value": "id274#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/He injected new life into the performance..png'/>"
+                },
+                {
+                    "value": "id275#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/He injected new life into the performance..png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "He has a heart of gold.",
+            "images": [
+                {
+                    "value": "id276#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/He has a heart of gold..png'/>"
+                },
+                {
+                    "value": "id277#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/He has a heart of gold..png'/>"
+                },
+                {
+                    "value": "id278#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/He has a heart of gold..png'/>"
+                },
+                {
+                    "value": "id279#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/He has a heart of gold..png'/>"
+                },
+                {
+                    "value": "id280#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/He has a heart of gold..png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "The pride bursts from my heart.",
+            "images": [
+                {
+                    "value": "id281#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/The pride bursts from my heart..png'/>"
+                },
+                {
+                    "value": "id282#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/The pride bursts from my heart..png'/>"
+                },
+                {
+                    "value": "id283#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/The pride bursts from my heart..png'/>"
+                },
+                {
+                    "value": "id284#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/The pride bursts from my heart..png'/>"
+                },
+                {
+                    "value": "id285#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/The pride bursts from my heart..png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "The body is a container for emotion.",
+            "images": [
+                {
+                    "value": "id286#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/The body is a container for emotion..png'/>"
+                },
+                {
+                    "value": "id287#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/The body is a container for emotion..png'/>"
+                },
+                {
+                    "value": "id288#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/The body is a container for emotion..png'/>"
+                },
+                {
+                    "value": "id289#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/The body is a container for emotion..png'/>"
+                },
+                {
+                    "value": "id290#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/The body is a container for emotion..png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "Nonetheless an established cult of fans digs this activity.",
+            "images": [
+                {
+                    "value": "id291#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/Nonetheless an established cult of fans digs this activity..png'/>"
+                },
+                {
+                    "value": "id292#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/Nonetheless an established cult of fans digs this activity..png'/>"
+                },
+                {
+                    "value": "id293#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/Nonetheless an established cult of fans digs this activity..png'/>"
+                },
+                {
+                    "value": "id294#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/Nonetheless an established cult of fans digs this activity..png'/>"
+                },
+                {
+                    "value": "id295#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/Nonetheless an established cult of fans digs this activity..png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "Dressed all in black like this, she looked like a sheathed sword",
+            "images": [
+                {
+                    "value": "id296#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/Dressed all in black like this, she looked like a sheathed sword.png'/>"
+                },
+                {
+                    "value": "id297#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/Dressed all in black like this, she looked like a sheathed sword.png'/>"
+                },
+                {
+                    "value": "id298#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/Dressed all in black like this, she looked like a sheathed sword.png'/>"
+                },
+                {
+                    "value": "id299#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/Dressed all in black like this, she looked like a sheathed sword.png'/>"
+                },
+                {
+                    "value": "id300#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/Dressed all in black like this, she looked like a sheathed sword.png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "Time flies",
+            "images": [
+                {
+                    "value": "id301#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/Time flies.png'/>"
+                },
+                {
+                    "value": "id302#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/Time flies.png'/>"
+                },
+                {
+                    "value": "id303#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/Time flies.png'/>"
+                },
+                {
+                    "value": "id304#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/Time flies.png'/>"
+                },
+                {
+                    "value": "id305#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/Time flies.png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "Kisses are the flowers of love in bloom.",
+            "images": [
+                {
+                    "value": "id306#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/Kisses are the flowers of love in bloom..png'/>"
+                },
+                {
+                    "value": "id307#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/Kisses are the flowers of love in bloom..png'/>"
+                },
+                {
+                    "value": "id308#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/Kisses are the flowers of love in bloom..png'/>"
+                },
+                {
+                    "value": "id309#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/Kisses are the flowers of love in bloom..png'/>"
+                },
+                {
+                    "value": "id310#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/Kisses are the flowers of love in bloom..png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "The hope in her voice now made me think of a flower growing in shadow.",
+            "images": [
+                {
+                    "value": "id311#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/The hope in her voice now made me think of a flower growing in shadow..png'/>"
+                },
+                {
+                    "value": "id312#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/The hope in her voice now made me think of a flower growing in shadow..png'/>"
+                },
+                {
+                    "value": "id313#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/The hope in her voice now made me think of a flower growing in shadow..png'/>"
+                },
+                {
+                    "value": "id314#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/The hope in her voice now made me think of a flower growing in shadow..png'/>"
+                },
+                {
+                    "value": "id315#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/The hope in her voice now made me think of a flower growing in shadow..png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "My eyes teared up and I could feel my face turning into a bruised tomato.",
+            "images": [
+                {
+                    "value": "id316#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/My eyes teared up and I could feel my face turning into a bruised tomato..png'/>"
+                },
+                {
+                    "value": "id317#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/My eyes teared up and I could feel my face turning into a bruised tomato..png'/>"
+                },
+                {
+                    "value": "id318#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/My eyes teared up and I could feel my face turning into a bruised tomato..png'/>"
+                },
+                {
+                    "value": "id319#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/My eyes teared up and I could feel my face turning into a bruised tomato..png'/>"
+                },
+                {
+                    "value": "id320#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/My eyes teared up and I could feel my face turning into a bruised tomato..png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "Am I talking to a brick wall?",
+            "images": [
+                {
+                    "value": "id321#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/Am I talking to a brick wall?.png'/>"
+                },
+                {
+                    "value": "id322#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/Am I talking to a brick wall?.png'/>"
+                },
+                {
+                    "value": "id323#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/Am I talking to a brick wall?.png'/>"
+                },
+                {
+                    "value": "id324#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/Am I talking to a brick wall?.png'/>"
+                },
+                {
+                    "value": "id325#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/Am I talking to a brick wall?.png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "The company is letting money walk out the door.",
+            "images": [
+                {
+                    "value": "id326#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/The company is letting money walk out the door..png'/>"
+                },
+                {
+                    "value": "id327#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/The company is letting money walk out the door..png'/>"
+                },
+                {
+                    "value": "id328#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/The company is letting money walk out the door..png'/>"
+                },
+                {
+                    "value": "id329#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/The company is letting money walk out the door..png'/>"
+                },
+                {
+                    "value": "id330#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/The company is letting money walk out the door..png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "His mind groped to make the connection.",
+            "images": [
+                {
+                    "value": "id331#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/His mind groped to make the connection..png'/>"
+                },
+                {
+                    "value": "id332#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/His mind groped to make the connection..png'/>"
+                },
+                {
+                    "value": "id333#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/His mind groped to make the connection..png'/>"
+                },
+                {
+                    "value": "id334#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/His mind groped to make the connection..png'/>"
+                },
+                {
+                    "value": "id335#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/His mind groped to make the connection..png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "Life is a maze.",
+            "images": [
+                {
+                    "value": "id336#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/Life is a maze..png'/>"
+                },
+                {
+                    "value": "id337#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/Life is a maze..png'/>"
+                },
+                {
+                    "value": "id338#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/Life is a maze..png'/>"
+                },
+                {
+                    "value": "id339#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/Life is a maze..png'/>"
+                },
+                {
+                    "value": "id340#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/Life is a maze..png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "My heart is a river",
+            "images": [
+                {
+                    "value": "id341#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/My heart is a river.png'/>"
+                },
+                {
+                    "value": "id342#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/My heart is a river.png'/>"
+                },
+                {
+                    "value": "id343#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/My heart is a river.png'/>"
+                },
+                {
+                    "value": "id344#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/My heart is a river.png'/>"
+                },
+                {
+                    "value": "id345#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/My heart is a river.png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "You just started staring off into space and smiling like a clown shouldering an axe.",
+            "images": [
+                {
+                    "value": "id346#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/You just started staring off into space and smiling like a clown shouldering an axe..png'/>"
+                },
+                {
+                    "value": "id347#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/You just started staring off into space and smiling like a clown shouldering an axe..png'/>"
+                },
+                {
+                    "value": "id348#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/You just started staring off into space and smiling like a clown shouldering an axe..png'/>"
+                },
+                {
+                    "value": "id349#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/You just started staring off into space and smiling like a clown shouldering an axe..png'/>"
+                },
+                {
+                    "value": "id350#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/You just started staring off into space and smiling like a clown shouldering an axe..png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "Maria\u2019s eyes are fireflies, sparkling, speaking, and expressing many things",
+            "images": [
+                {
+                    "value": "id351#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/Maria\u2019s eyes are fireflies, sparkling, speaking, and expressing many things.png'/>"
+                },
+                {
+                    "value": "id352#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/Maria\u2019s eyes are fireflies, sparkling, speaking, and expressing many things.png'/>"
+                },
+                {
+                    "value": "id353#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/Maria\u2019s eyes are fireflies, sparkling, speaking, and expressing many things.png'/>"
+                },
+                {
+                    "value": "id354#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/Maria\u2019s eyes are fireflies, sparkling, speaking, and expressing many things.png'/>"
+                },
+                {
+                    "value": "id355#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/Maria\u2019s eyes are fireflies, sparkling, speaking, and expressing many things.png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "Face it, caine, the whole ashland police department is like a pair of three- week-old gym socks.",
+            "images": [
+                {
+                    "value": "id356#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/Face it, caine, the whole ashland police department is like a pair of three- week-old gym socks..png'/>"
+                },
+                {
+                    "value": "id357#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/Face it, caine, the whole ashland police department is like a pair of three- week-old gym socks..png'/>"
+                },
+                {
+                    "value": "id358#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/Face it, caine, the whole ashland police department is like a pair of three- week-old gym socks..png'/>"
+                },
+                {
+                    "value": "id359#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/Face it, caine, the whole ashland police department is like a pair of three- week-old gym socks..png'/>"
+                },
+                {
+                    "value": "id360#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/Face it, caine, the whole ashland police department is like a pair of three- week-old gym socks..png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "He shouldered the costs for the accident.",
+            "images": [
+                {
+                    "value": "id361#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/He shouldered the costs for the accident..png'/>"
+                },
+                {
+                    "value": "id362#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/He shouldered the costs for the accident..png'/>"
+                },
+                {
+                    "value": "id363#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/He shouldered the costs for the accident..png'/>"
+                },
+                {
+                    "value": "id364#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/He shouldered the costs for the accident..png'/>"
+                },
+                {
+                    "value": "id365#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/He shouldered the costs for the accident..png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "Growing up, people always thought you were like a social pariah.",
+            "images": [
+                {
+                    "value": "id366#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/Growing up, people always thought you were like a social pariah..png'/>"
+                },
+                {
+                    "value": "id367#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/Growing up, people always thought you were like a social pariah..png'/>"
+                },
+                {
+                    "value": "id368#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/Growing up, people always thought you were like a social pariah..png'/>"
+                },
+                {
+                    "value": "id369#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/Growing up, people always thought you were like a social pariah..png'/>"
+                },
+                {
+                    "value": "id370#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/Growing up, people always thought you were like a social pariah..png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "He is grinning like an ape.",
+            "images": [
+                {
+                    "value": "id371#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/He is grinning like an ape..png'/>"
+                },
+                {
+                    "value": "id372#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/He is grinning like an ape..png'/>"
+                },
+                {
+                    "value": "id373#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/He is grinning like an ape..png'/>"
+                },
+                {
+                    "value": "id374#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/He is grinning like an ape..png'/>"
+                },
+                {
+                    "value": "id375#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/He is grinning like an ape..png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "Her words were like a sharp blade .",
+            "images": [
+                {
+                    "value": "id376#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/Her words were like a sharp blade ..png'/>"
+                },
+                {
+                    "value": "id377#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/Her words were like a sharp blade ..png'/>"
+                },
+                {
+                    "value": "id378#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/Her words were like a sharp blade ..png'/>"
+                },
+                {
+                    "value": "id379#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/Her words were like a sharp blade ..png'/>"
+                },
+                {
+                    "value": "id380#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/Her words were like a sharp blade ..png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "When I step into the office, the sight of a man sitting there is like a clap of thunder in the quiet room.",
+            "images": [
+                {
+                    "value": "id381#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/When I step into the office, the sight of a man sitting there is like a clap of thunder in the quiet room..png'/>"
+                },
+                {
+                    "value": "id382#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/When I step into the office, the sight of a man sitting there is like a clap of thunder in the quiet room..png'/>"
+                },
+                {
+                    "value": "id383#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/When I step into the office, the sight of a man sitting there is like a clap of thunder in the quiet room..png'/>"
+                },
+                {
+                    "value": "id384#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/When I step into the office, the sight of a man sitting there is like a clap of thunder in the quiet room..png'/>"
+                },
+                {
+                    "value": "id385#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/When I step into the office, the sight of a man sitting there is like a clap of thunder in the quiet room..png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "Valentinos mind was like a spilled box of beads bouncing in every direction.",
+            "images": [
+                {
+                    "value": "id386#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/Valentinos mind was like a spilled box of beads bouncing in every direction..png'/>"
+                },
+                {
+                    "value": "id387#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/Valentinos mind was like a spilled box of beads bouncing in every direction..png'/>"
+                },
+                {
+                    "value": "id388#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/Valentinos mind was like a spilled box of beads bouncing in every direction..png'/>"
+                },
+                {
+                    "value": "id389#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/Valentinos mind was like a spilled box of beads bouncing in every direction..png'/>"
+                },
+                {
+                    "value": "id390#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/Valentinos mind was like a spilled box of beads bouncing in every direction..png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "Ben's temper was a volcano, ready to explode.",
+            "images": [
+                {
+                    "value": "id391#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/Ben's temper was a volcano, ready to explode..png'/>"
+                },
+                {
+                    "value": "id392#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/Ben's temper was a volcano, ready to explode..png'/>"
+                },
+                {
+                    "value": "id393#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/Ben's temper was a volcano, ready to explode..png'/>"
+                },
+                {
+                    "value": "id394#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/Ben's temper was a volcano, ready to explode..png'/>"
+                },
+                {
+                    "value": "id395#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/Ben's temper was a volcano, ready to explode..png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "The place is like a dungeon.",
+            "images": [
+                {
+                    "value": "id396#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/The place is like a dungeon..png'/>"
+                },
+                {
+                    "value": "id397#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/The place is like a dungeon..png'/>"
+                },
+                {
+                    "value": "id398#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/The place is like a dungeon..png'/>"
+                },
+                {
+                    "value": "id399#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/The place is like a dungeon..png'/>"
+                },
+                {
+                    "value": "id400#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/The place is like a dungeon..png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "Your face is a canvas",
+            "images": [
+                {
+                    "value": "id401#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/Your face is a canvas.png'/>"
+                },
+                {
+                    "value": "id402#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/Your face is a canvas.png'/>"
+                },
+                {
+                    "value": "id403#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/Your face is a canvas.png'/>"
+                },
+                {
+                    "value": "id404#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/Your face is a canvas.png'/>"
+                },
+                {
+                    "value": "id405#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/Your face is a canvas.png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "Panic is sweeping through the streets like an ambitious virus.",
+            "images": [
+                {
+                    "value": "id406#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/Panic is sweeping through the streets like an ambitious virus..png'/>"
+                },
+                {
+                    "value": "id407#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/Panic is sweeping through the streets like an ambitious virus..png'/>"
+                },
+                {
+                    "value": "id408#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/Panic is sweeping through the streets like an ambitious virus..png'/>"
+                },
+                {
+                    "value": "id409#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/Panic is sweeping through the streets like an ambitious virus..png'/>"
+                },
+                {
+                    "value": "id410#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/Panic is sweeping through the streets like an ambitious virus..png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "Slowly his sense and strength grew.",
+            "images": [
+                {
+                    "value": "id411#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/Slowly his sense and strength grew..png'/>"
+                },
+                {
+                    "value": "id412#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/Slowly his sense and strength grew..png'/>"
+                },
+                {
+                    "value": "id413#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/Slowly his sense and strength grew..png'/>"
+                },
+                {
+                    "value": "id414#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/Slowly his sense and strength grew..png'/>"
+                },
+                {
+                    "value": "id415#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/Slowly his sense and strength grew..png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "Memories are bullets",
+            "images": [
+                {
+                    "value": "id416#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/Memories are bullets.png'/>"
+                },
+                {
+                    "value": "id417#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/Memories are bullets.png'/>"
+                },
+                {
+                    "value": "id418#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/Memories are bullets.png'/>"
+                },
+                {
+                    "value": "id419#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/Memories are bullets.png'/>"
+                },
+                {
+                    "value": "id420#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/Memories are bullets.png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "My brain is like a box of crayons",
+            "images": [
+                {
+                    "value": "id421#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/My brain is like a box of crayons.png'/>"
+                },
+                {
+                    "value": "id422#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/My brain is like a box of crayons.png'/>"
+                },
+                {
+                    "value": "id423#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/My brain is like a box of crayons.png'/>"
+                },
+                {
+                    "value": "id424#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/My brain is like a box of crayons.png'/>"
+                },
+                {
+                    "value": "id425#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/My brain is like a box of crayons.png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "Joe: that's because you're like a snail surfing on molasses.",
+            "images": [
+                {
+                    "value": "id426#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/Joe: that's because you're like a snail surfing on molasses..png'/>"
+                },
+                {
+                    "value": "id427#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/Joe: that's because you're like a snail surfing on molasses..png'/>"
+                },
+                {
+                    "value": "id428#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/Joe: that's because you're like a snail surfing on molasses..png'/>"
+                },
+                {
+                    "value": "id429#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/Joe: that's because you're like a snail surfing on molasses..png'/>"
+                },
+                {
+                    "value": "id430#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/Joe: that's because you're like a snail surfing on molasses..png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "She had to juggle her job and her children.",
+            "images": [
+                {
+                    "value": "id431#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/She had to juggle her job and her children..png'/>"
+                },
+                {
+                    "value": "id432#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/She had to juggle her job and her children..png'/>"
+                },
+                {
+                    "value": "id433#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/She had to juggle her job and her children..png'/>"
+                },
+                {
+                    "value": "id434#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/She had to juggle her job and her children..png'/>"
+                },
+                {
+                    "value": "id435#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/She had to juggle her job and her children..png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "It's raining men",
+            "images": [
+                {
+                    "value": "id436#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/It's raining men.png'/>"
+                },
+                {
+                    "value": "id437#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/It's raining men.png'/>"
+                },
+                {
+                    "value": "id438#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/It's raining men.png'/>"
+                },
+                {
+                    "value": "id439#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/It's raining men.png'/>"
+                },
+                {
+                    "value": "id440#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/It's raining men.png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "The wind whips through the leaves.",
+            "images": [
+                {
+                    "value": "id441#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/The wind whips through the leaves..png'/>"
+                },
+                {
+                    "value": "id442#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/The wind whips through the leaves..png'/>"
+                },
+                {
+                    "value": "id443#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/The wind whips through the leaves..png'/>"
+                },
+                {
+                    "value": "id444#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/The wind whips through the leaves..png'/>"
+                },
+                {
+                    "value": "id445#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/The wind whips through the leaves..png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "A laugh in a sea of sadness",
+            "images": [
+                {
+                    "value": "id446#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/A laugh in a sea of sadness.png'/>"
+                },
+                {
+                    "value": "id447#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/A laugh in a sea of sadness.png'/>"
+                },
+                {
+                    "value": "id448#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/A laugh in a sea of sadness.png'/>"
+                },
+                {
+                    "value": "id449#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/A laugh in a sea of sadness.png'/>"
+                },
+                {
+                    "value": "id450#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/A laugh in a sea of sadness.png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "I am the good shepherd, \u2026 and I lay down my life for the sheep",
+            "images": [
+                {
+                    "value": "id451#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/I am the good shepherd, \u2026 and I lay down my life for the sheep.png'/>"
+                },
+                {
+                    "value": "id452#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/I am the good shepherd, \u2026 and I lay down my life for the sheep.png'/>"
+                },
+                {
+                    "value": "id453#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/I am the good shepherd, \u2026 and I lay down my life for the sheep.png'/>"
+                },
+                {
+                    "value": "id454#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/I am the good shepherd, \u2026 and I lay down my life for the sheep.png'/>"
+                },
+                {
+                    "value": "id455#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/I am the good shepherd, \u2026 and I lay down my life for the sheep.png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "The valor landed like a mosquito on a bare arm",
+            "images": [
+                {
+                    "value": "id456#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/The valor landed like a mosquito on a bare arm.png'/>"
+                },
+                {
+                    "value": "id457#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/The valor landed like a mosquito on a bare arm.png'/>"
+                },
+                {
+                    "value": "id458#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/The valor landed like a mosquito on a bare arm.png'/>"
+                },
+                {
+                    "value": "id459#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/The valor landed like a mosquito on a bare arm.png'/>"
+                },
+                {
+                    "value": "id460#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/The valor landed like a mosquito on a bare arm.png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "Chaos is a friend of mine",
+            "images": [
+                {
+                    "value": "id461#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/Chaos is a friend of mine.png'/>"
+                },
+                {
+                    "value": "id462#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/Chaos is a friend of mine.png'/>"
+                },
+                {
+                    "value": "id463#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/Chaos is a friend of mine.png'/>"
+                },
+                {
+                    "value": "id464#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/Chaos is a friend of mine.png'/>"
+                },
+                {
+                    "value": "id465#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/Chaos is a friend of mine.png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "\u2018 We 've had more paperwork , not less , since the trust took over , \u2019 Buzz said tartly .",
+            "images": [
+                {
+                    "value": "id466#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/\u2018 We 've had more paperwork , not less , since the trust took over , \u2019 Buzz said tartly ..png'/>"
+                },
+                {
+                    "value": "id467#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/\u2018 We 've had more paperwork , not less , since the trust took over , \u2019 Buzz said tartly ..png'/>"
+                },
+                {
+                    "value": "id468#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/\u2018 We 've had more paperwork , not less , since the trust took over , \u2019 Buzz said tartly ..png'/>"
+                },
+                {
+                    "value": "id469#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/\u2018 We 've had more paperwork , not less , since the trust took over , \u2019 Buzz said tartly ..png'/>"
+                },
+                {
+                    "value": "id470#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/\u2018 We 've had more paperwork , not less , since the trust took over , \u2019 Buzz said tartly ..png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "You light up my life with your presence.",
+            "images": [
+                {
+                    "value": "id471#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/You light up my life with your presence..png'/>"
+                },
+                {
+                    "value": "id472#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/You light up my life with your presence..png'/>"
+                },
+                {
+                    "value": "id473#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/You light up my life with your presence..png'/>"
+                },
+                {
+                    "value": "id474#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/You light up my life with your presence..png'/>"
+                },
+                {
+                    "value": "id475#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/You light up my life with your presence..png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "After working two years for the company she was burned out.",
+            "images": [
+                {
+                    "value": "id476#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/After working two years for the company she was burned out..png'/>"
+                },
+                {
+                    "value": "id477#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/After working two years for the company she was burned out..png'/>"
+                },
+                {
+                    "value": "id478#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/After working two years for the company she was burned out..png'/>"
+                },
+                {
+                    "value": "id479#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/After working two years for the company she was burned out..png'/>"
+                },
+                {
+                    "value": "id480#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/After working two years for the company she was burned out..png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "Your smile is a heron, flying",
+            "images": [
+                {
+                    "value": "id481#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/Your smile is a heron, flying.png'/>"
+                },
+                {
+                    "value": "id482#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/Your smile is a heron, flying.png'/>"
+                },
+                {
+                    "value": "id483#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/Your smile is a heron, flying.png'/>"
+                },
+                {
+                    "value": "id484#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/Your smile is a heron, flying.png'/>"
+                },
+                {
+                    "value": "id485#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/Your smile is a heron, flying.png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "The classroom was a zoo.",
+            "images": [
+                {
+                    "value": "id486#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/The classroom was a zoo..png'/>"
+                },
+                {
+                    "value": "id487#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/The classroom was a zoo..png'/>"
+                },
+                {
+                    "value": "id488#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/The classroom was a zoo..png'/>"
+                },
+                {
+                    "value": "id489#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/The classroom was a zoo..png'/>"
+                },
+                {
+                    "value": "id490#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/The classroom was a zoo..png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "It filled gabe with something like a heroin rush.",
+            "images": [
+                {
+                    "value": "id491#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/It filled gabe with something like a heroin rush..png'/>"
+                },
+                {
+                    "value": "id492#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/It filled gabe with something like a heroin rush..png'/>"
+                },
+                {
+                    "value": "id493#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/It filled gabe with something like a heroin rush..png'/>"
+                },
+                {
+                    "value": "id494#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/It filled gabe with something like a heroin rush..png'/>"
+                },
+                {
+                    "value": "id495#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/It filled gabe with something like a heroin rush..png'/>"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "prompt": "My eyes welled up and I could feel my face turning red.",
+            "images": [
+                {
+                    "value": "id496#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/sd_zs/My eyes welled up and I could feel my face turning red..png'/>"
+                },
+                {
+                    "value": "id497#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd/My eyes welled up and I could feel my face turning red..png'/>"
+                },
+                {
+                    "value": "id498#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/My eyes welled up and I could feel my face turning red..png'/>"
+                },
+                {
+                    "value": "id499#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/My eyes welled up and I could feel my face turning red..png'/>"
+                },
+                {
+                    "value": "id500#0",
+                    "style": "margin: 5px",
+                    "html": "<img width='400' src='/workspace/Metaphor-Text-to-Image/generations/haivmet_1/My eyes welled up and I could feel my face turning red..png'/>"
+                }
+            ]
+        }
+    }
+]

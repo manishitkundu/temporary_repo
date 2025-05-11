@@ -1,0 +1,4002 @@
+[
+    {
+        "data": {
+            "id": "001",
+            "prompt": "She dawned sunflower seeds.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/She dawned sunflower seeds..png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "002",
+            "prompt": "She dawned sunflower seeds.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/She dawned sunflower seeds..png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "003",
+            "prompt": "She dawned sunflower seeds.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/She dawned sunflower seeds..png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "004",
+            "prompt": "She dawned sunflower seeds.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/She dawned sunflower seeds..png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "005",
+            "prompt": "She dawned sunflower seeds.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/She dawned sunflower seeds..png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "006",
+            "prompt": "We have learned that the ending of the Earth is like death and taxes.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/We have learned that the ending of the Earth is like death and taxes..png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "007",
+            "prompt": "We have learned that the ending of the Earth is like death and taxes.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/We have learned that the ending of the Earth is like death and taxes..png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "008",
+            "prompt": "We have learned that the ending of the Earth is like death and taxes.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/We have learned that the ending of the Earth is like death and taxes..png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "009",
+            "prompt": "We have learned that the ending of the Earth is like death and taxes.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/We have learned that the ending of the Earth is like death and taxes..png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "010",
+            "prompt": "We have learned that the ending of the Earth is like death and taxes.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/We have learned that the ending of the Earth is like death and taxes..png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "011",
+            "prompt": "The courtyard goes like a movie screen with the film broken in the projector.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/The courtyard goes like a movie screen with the film broken in the projector..png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "012",
+            "prompt": "The courtyard goes like a movie screen with the film broken in the projector.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/The courtyard goes like a movie screen with the film broken in the projector..png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "013",
+            "prompt": "The courtyard goes like a movie screen with the film broken in the projector.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/The courtyard goes like a movie screen with the film broken in the projector..png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "014",
+            "prompt": "The courtyard goes like a movie screen with the film broken in the projector.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/The courtyard goes like a movie screen with the film broken in the projector..png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "015",
+            "prompt": "The courtyard goes like a movie screen with the film broken in the projector.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/The courtyard goes like a movie screen with the film broken in the projector..png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "016",
+            "prompt": "You disagree? Okay, shoot!",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/You disagree? Okay, shoot!.png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "017",
+            "prompt": "You disagree? Okay, shoot!",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/You disagree? Okay, shoot!.png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "018",
+            "prompt": "You disagree? Okay, shoot!",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/You disagree? Okay, shoot!.png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "019",
+            "prompt": "You disagree? Okay, shoot!",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/You disagree? Okay, shoot!.png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "020",
+            "prompt": "You disagree? Okay, shoot!",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/You disagree? Okay, shoot!.png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "021",
+            "prompt": "The middle east is fermenting.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/The middle east is fermenting..png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "022",
+            "prompt": "The middle east is fermenting.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/The middle east is fermenting..png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "023",
+            "prompt": "The middle east is fermenting.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/The middle east is fermenting..png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "024",
+            "prompt": "The middle east is fermenting.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/The middle east is fermenting..png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "025",
+            "prompt": "The middle east is fermenting.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/The middle east is fermenting..png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "026",
+            "prompt": "His dwelling is a labyrinth of thorns",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/His dwelling is a labyrinth of thorns.png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "027",
+            "prompt": "His dwelling is a labyrinth of thorns",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/His dwelling is a labyrinth of thorns.png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "028",
+            "prompt": "His dwelling is a labyrinth of thorns",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/His dwelling is a labyrinth of thorns.png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "029",
+            "prompt": "His dwelling is a labyrinth of thorns",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/His dwelling is a labyrinth of thorns.png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "030",
+            "prompt": "His dwelling is a labyrinth of thorns",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/His dwelling is a labyrinth of thorns.png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "031",
+            "prompt": "The brain uses a sort of fuzzy logic.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/The brain uses a sort of fuzzy logic..png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "032",
+            "prompt": "The brain uses a sort of fuzzy logic.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/The brain uses a sort of fuzzy logic..png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "033",
+            "prompt": "The brain uses a sort of fuzzy logic.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/The brain uses a sort of fuzzy logic..png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "034",
+            "prompt": "The brain uses a sort of fuzzy logic.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/The brain uses a sort of fuzzy logic..png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "035",
+            "prompt": "The brain uses a sort of fuzzy logic.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/The brain uses a sort of fuzzy logic..png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "036",
+            "prompt": "See the world from a different lens.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/See the world from a different lens..png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "037",
+            "prompt": "See the world from a different lens.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/See the world from a different lens..png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "038",
+            "prompt": "See the world from a different lens.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/See the world from a different lens..png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "039",
+            "prompt": "See the world from a different lens.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/See the world from a different lens..png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "040",
+            "prompt": "See the world from a different lens.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/See the world from a different lens..png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "041",
+            "prompt": "In the glass's reflection, her face was like a tapered flame .",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/In the glass's reflection, her face was like a tapered flame ..png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "042",
+            "prompt": "In the glass's reflection, her face was like a tapered flame .",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/In the glass's reflection, her face was like a tapered flame ..png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "043",
+            "prompt": "In the glass's reflection, her face was like a tapered flame .",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/In the glass's reflection, her face was like a tapered flame ..png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "044",
+            "prompt": "In the glass's reflection, her face was like a tapered flame .",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/In the glass's reflection, her face was like a tapered flame ..png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "045",
+            "prompt": "In the glass's reflection, her face was like a tapered flame .",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/In the glass's reflection, her face was like a tapered flame ..png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "046",
+            "prompt": "With the crisis the bubble exploded.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/With the crisis the bubble exploded..png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "047",
+            "prompt": "With the crisis the bubble exploded.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/With the crisis the bubble exploded..png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "048",
+            "prompt": "With the crisis the bubble exploded.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/With the crisis the bubble exploded..png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "049",
+            "prompt": "With the crisis the bubble exploded.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/With the crisis the bubble exploded..png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "050",
+            "prompt": "With the crisis the bubble exploded.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/With the crisis the bubble exploded..png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "051",
+            "prompt": "I waded through the work.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/I waded through the work..png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "052",
+            "prompt": "I waded through the work.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/I waded through the work..png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "053",
+            "prompt": "I waded through the work.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/I waded through the work..png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "054",
+            "prompt": "I waded through the work.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/I waded through the work..png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "055",
+            "prompt": "I waded through the work.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/I waded through the work..png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "056",
+            "prompt": "His heart is a cold iron.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/His heart is a cold iron..png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "057",
+            "prompt": "His heart is a cold iron.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/His heart is a cold iron..png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "058",
+            "prompt": "His heart is a cold iron.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/His heart is a cold iron..png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "059",
+            "prompt": "His heart is a cold iron.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/His heart is a cold iron..png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "060",
+            "prompt": "His heart is a cold iron.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/His heart is a cold iron..png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "061",
+            "prompt": "Consumed by the thoughts that grew in the head.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/Consumed by the thoughts that grew in the head..png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "062",
+            "prompt": "Consumed by the thoughts that grew in the head.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/Consumed by the thoughts that grew in the head..png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "063",
+            "prompt": "Consumed by the thoughts that grew in the head.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/Consumed by the thoughts that grew in the head..png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "064",
+            "prompt": "Consumed by the thoughts that grew in the head.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/Consumed by the thoughts that grew in the head..png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "065",
+            "prompt": "Consumed by the thoughts that grew in the head.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/Consumed by the thoughts that grew in the head..png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "066",
+            "prompt": "Her heart melts when she sees him.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/Her heart melts when she sees him..png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "067",
+            "prompt": "Her heart melts when she sees him.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/Her heart melts when she sees him..png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "068",
+            "prompt": "Her heart melts when she sees him.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/Her heart melts when she sees him..png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "069",
+            "prompt": "Her heart melts when she sees him.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/Her heart melts when she sees him..png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "070",
+            "prompt": "Her heart melts when she sees him.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/Her heart melts when she sees him..png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "071",
+            "prompt": "So disasters  come  not singly .",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/So disasters  come  not singly ..png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "072",
+            "prompt": "So disasters  come  not singly .",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/So disasters  come  not singly ..png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "073",
+            "prompt": "So disasters  come  not singly .",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/So disasters  come  not singly ..png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "074",
+            "prompt": "So disasters  come  not singly .",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/So disasters  come  not singly ..png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "075",
+            "prompt": "So disasters  come  not singly .",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/So disasters  come  not singly ..png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "076",
+            "prompt": "She\u2019s an early bird.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/She\u2019s an early bird..png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "077",
+            "prompt": "She\u2019s an early bird.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/She\u2019s an early bird..png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "078",
+            "prompt": "She\u2019s an early bird.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/She\u2019s an early bird..png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "079",
+            "prompt": "She\u2019s an early bird.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/She\u2019s an early bird..png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "080",
+            "prompt": "She\u2019s an early bird.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/She\u2019s an early bird..png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "081",
+            "prompt": "No, she declared, now looking like a peacock.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/No, she declared, now looking like a peacock..png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "082",
+            "prompt": "No, she declared, now looking like a peacock.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/No, she declared, now looking like a peacock..png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "083",
+            "prompt": "No, she declared, now looking like a peacock.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/No, she declared, now looking like a peacock..png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "084",
+            "prompt": "No, she declared, now looking like a peacock.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/No, she declared, now looking like a peacock..png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "085",
+            "prompt": "No, she declared, now looking like a peacock.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/No, she declared, now looking like a peacock..png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "086",
+            "prompt": "She had a bright idea",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/She had a bright idea.png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "087",
+            "prompt": "She had a bright idea",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/She had a bright idea.png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "088",
+            "prompt": "She had a bright idea",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/She had a bright idea.png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "089",
+            "prompt": "She had a bright idea",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/She had a bright idea.png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "090",
+            "prompt": "She had a bright idea",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/She had a bright idea.png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "091",
+            "prompt": "I really think you\u2019re barking up the wrong tree.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/I really think you\u2019re barking up the wrong tree..png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "092",
+            "prompt": "I really think you\u2019re barking up the wrong tree.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/I really think you\u2019re barking up the wrong tree..png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "093",
+            "prompt": "I really think you\u2019re barking up the wrong tree.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/I really think you\u2019re barking up the wrong tree..png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "094",
+            "prompt": "I really think you\u2019re barking up the wrong tree.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/I really think you\u2019re barking up the wrong tree..png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "095",
+            "prompt": "I really think you\u2019re barking up the wrong tree.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/I really think you\u2019re barking up the wrong tree..png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "096",
+            "prompt": "Fear had changed him to a shaken jelly.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/Fear had changed him to a shaken jelly..png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "097",
+            "prompt": "Fear had changed him to a shaken jelly.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/Fear had changed him to a shaken jelly..png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "098",
+            "prompt": "Fear had changed him to a shaken jelly.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/Fear had changed him to a shaken jelly..png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "099",
+            "prompt": "Fear had changed him to a shaken jelly.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/Fear had changed him to a shaken jelly..png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "100",
+            "prompt": "Fear had changed him to a shaken jelly.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/Fear had changed him to a shaken jelly..png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "101",
+            "prompt": "It was like a monk's cell.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/It was like a monk's cell..png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "102",
+            "prompt": "It was like a monk's cell.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/It was like a monk's cell..png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "103",
+            "prompt": "It was like a monk's cell.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/It was like a monk's cell..png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "104",
+            "prompt": "It was like a monk's cell.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/It was like a monk's cell..png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "105",
+            "prompt": "It was like a monk's cell.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/It was like a monk's cell..png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "106",
+            "prompt": "Work is a living hell",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/Work is a living hell.png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "107",
+            "prompt": "Work is a living hell",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/Work is a living hell.png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "108",
+            "prompt": "Work is a living hell",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/Work is a living hell.png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "109",
+            "prompt": "Work is a living hell",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/Work is a living hell.png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "110",
+            "prompt": "Work is a living hell",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/Work is a living hell.png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "111",
+            "prompt": "Life is a desert dry and drear",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/Life is a desert dry and drear.png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "112",
+            "prompt": "Life is a desert dry and drear",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/Life is a desert dry and drear.png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "113",
+            "prompt": "Life is a desert dry and drear",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/Life is a desert dry and drear.png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "114",
+            "prompt": "Life is a desert dry and drear",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/Life is a desert dry and drear.png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "115",
+            "prompt": "Life is a desert dry and drear",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/Life is a desert dry and drear.png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "116",
+            "prompt": "That lawn is a green carpet.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/That lawn is a green carpet..png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "117",
+            "prompt": "That lawn is a green carpet.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/That lawn is a green carpet..png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "118",
+            "prompt": "That lawn is a green carpet.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/That lawn is a green carpet..png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "119",
+            "prompt": "That lawn is a green carpet.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/That lawn is a green carpet..png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "120",
+            "prompt": "That lawn is a green carpet.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/That lawn is a green carpet..png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "121",
+            "prompt": "He is a shining star.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/He is a shining star..png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "122",
+            "prompt": "He is a shining star.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/He is a shining star..png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "123",
+            "prompt": "He is a shining star.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/He is a shining star..png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "124",
+            "prompt": "He is a shining star.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/He is a shining star..png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "125",
+            "prompt": "He is a shining star.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/He is a shining star..png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "126",
+            "prompt": "Death is a good disguise",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/Death is a good disguise.png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "127",
+            "prompt": "Death is a good disguise",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/Death is a good disguise.png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "128",
+            "prompt": "Death is a good disguise",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/Death is a good disguise.png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "129",
+            "prompt": "Death is a good disguise",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/Death is a good disguise.png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "130",
+            "prompt": "Death is a good disguise",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/Death is a good disguise.png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "131",
+            "prompt": "I recently landed a nursing internship which I am currently enjoying.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/I recently landed a nursing internship which I am currently enjoying..png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "132",
+            "prompt": "I recently landed a nursing internship which I am currently enjoying.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/I recently landed a nursing internship which I am currently enjoying..png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "133",
+            "prompt": "I recently landed a nursing internship which I am currently enjoying.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/I recently landed a nursing internship which I am currently enjoying..png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "134",
+            "prompt": "I recently landed a nursing internship which I am currently enjoying.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/I recently landed a nursing internship which I am currently enjoying..png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "135",
+            "prompt": "I recently landed a nursing internship which I am currently enjoying.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/I recently landed a nursing internship which I am currently enjoying..png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "136",
+            "prompt": "I got your back.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/I got your back..png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "137",
+            "prompt": "I got your back.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/I got your back..png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "138",
+            "prompt": "I got your back.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/I got your back..png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "139",
+            "prompt": "I got your back.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/I got your back..png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "140",
+            "prompt": "I got your back.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/I got your back..png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "141",
+            "prompt": "They looked like a feather mattress.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/They looked like a feather mattress..png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "142",
+            "prompt": "They looked like a feather mattress.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/They looked like a feather mattress..png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "143",
+            "prompt": "They looked like a feather mattress.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/They looked like a feather mattress..png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "144",
+            "prompt": "They looked like a feather mattress.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/They looked like a feather mattress..png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "145",
+            "prompt": "They looked like a feather mattress.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/They looked like a feather mattress..png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "146",
+            "prompt": "People were bolting out of the theater.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/People were bolting out of the theater..png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "147",
+            "prompt": "People were bolting out of the theater.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/People were bolting out of the theater..png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "148",
+            "prompt": "People were bolting out of the theater.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/People were bolting out of the theater..png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "149",
+            "prompt": "People were bolting out of the theater.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/People were bolting out of the theater..png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "150",
+            "prompt": "People were bolting out of the theater.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/People were bolting out of the theater..png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "151",
+            "prompt": "She looked as happy as a thunder storm",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/She looked as happy as a thunder storm.png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "152",
+            "prompt": "She looked as happy as a thunder storm",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/She looked as happy as a thunder storm.png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "153",
+            "prompt": "She looked as happy as a thunder storm",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/She looked as happy as a thunder storm.png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "154",
+            "prompt": "She looked as happy as a thunder storm",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/She looked as happy as a thunder storm.png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "155",
+            "prompt": "She looked as happy as a thunder storm",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/She looked as happy as a thunder storm.png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "156",
+            "prompt": "Indeed, he was at times like an eel",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/Indeed, he was at times like an eel.png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "157",
+            "prompt": "Indeed, he was at times like an eel",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/Indeed, he was at times like an eel.png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "158",
+            "prompt": "Indeed, he was at times like an eel",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/Indeed, he was at times like an eel.png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "159",
+            "prompt": "Indeed, he was at times like an eel",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/Indeed, he was at times like an eel.png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "160",
+            "prompt": "Indeed, he was at times like an eel",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/Indeed, he was at times like an eel.png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "161",
+            "prompt": "My brain is stable after the bottle of champagne.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/My brain is stable after the bottle of champagne..png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "162",
+            "prompt": "My brain is stable after the bottle of champagne.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/My brain is stable after the bottle of champagne..png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "163",
+            "prompt": "My brain is stable after the bottle of champagne.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/My brain is stable after the bottle of champagne..png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "164",
+            "prompt": "My brain is stable after the bottle of champagne.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/My brain is stable after the bottle of champagne..png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "165",
+            "prompt": "My brain is stable after the bottle of champagne.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/My brain is stable after the bottle of champagne..png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "166",
+            "prompt": "The mountain was quilted with snow.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/The mountain was quilted with snow..png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "167",
+            "prompt": "The mountain was quilted with snow.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/The mountain was quilted with snow..png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "168",
+            "prompt": "The mountain was quilted with snow.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/The mountain was quilted with snow..png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "169",
+            "prompt": "The mountain was quilted with snow.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/The mountain was quilted with snow..png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "170",
+            "prompt": "The mountain was quilted with snow.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/The mountain was quilted with snow..png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "171",
+            "prompt": "The book was received warmly.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/The book was received warmly..png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "172",
+            "prompt": "The book was received warmly.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/The book was received warmly..png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "173",
+            "prompt": "The book was received warmly.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/The book was received warmly..png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "174",
+            "prompt": "The book was received warmly.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/The book was received warmly..png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "175",
+            "prompt": "The book was received warmly.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/The book was received warmly..png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "176",
+            "prompt": "Gather up the undiscovered universe like jewels in a jasper cup.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/Gather up the undiscovered universe like jewels in a jasper cup..png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "177",
+            "prompt": "Gather up the undiscovered universe like jewels in a jasper cup.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/Gather up the undiscovered universe like jewels in a jasper cup..png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "178",
+            "prompt": "Gather up the undiscovered universe like jewels in a jasper cup.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/Gather up the undiscovered universe like jewels in a jasper cup..png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "179",
+            "prompt": "Gather up the undiscovered universe like jewels in a jasper cup.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/Gather up the undiscovered universe like jewels in a jasper cup..png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "180",
+            "prompt": "Gather up the undiscovered universe like jewels in a jasper cup.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/Gather up the undiscovered universe like jewels in a jasper cup..png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "181",
+            "prompt": "Your voice is like the Nightingales",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/Your voice is like the Nightingales.png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "182",
+            "prompt": "Your voice is like the Nightingales",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/Your voice is like the Nightingales.png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "183",
+            "prompt": "Your voice is like the Nightingales",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/Your voice is like the Nightingales.png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "184",
+            "prompt": "Your voice is like the Nightingales",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/Your voice is like the Nightingales.png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "185",
+            "prompt": "Your voice is like the Nightingales",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/Your voice is like the Nightingales.png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "186",
+            "prompt": "Her face was calm but she seemed like a coiled spring .",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/Her face was calm but she seemed like a coiled spring ..png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "187",
+            "prompt": "Her face was calm but she seemed like a coiled spring .",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/Her face was calm but she seemed like a coiled spring ..png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "188",
+            "prompt": "Her face was calm but she seemed like a coiled spring .",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/Her face was calm but she seemed like a coiled spring ..png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "189",
+            "prompt": "Her face was calm but she seemed like a coiled spring .",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/Her face was calm but she seemed like a coiled spring ..png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "190",
+            "prompt": "Her face was calm but she seemed like a coiled spring .",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/Her face was calm but she seemed like a coiled spring ..png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "191",
+            "prompt": "On the rock, at her feet, anita was like a discarded wax figurine.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/On the rock, at her feet, anita was like a discarded wax figurine..png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "192",
+            "prompt": "On the rock, at her feet, anita was like a discarded wax figurine.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/On the rock, at her feet, anita was like a discarded wax figurine..png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "193",
+            "prompt": "On the rock, at her feet, anita was like a discarded wax figurine.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/On the rock, at her feet, anita was like a discarded wax figurine..png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "194",
+            "prompt": "On the rock, at her feet, anita was like a discarded wax figurine.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/On the rock, at her feet, anita was like a discarded wax figurine..png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "195",
+            "prompt": "On the rock, at her feet, anita was like a discarded wax figurine.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/On the rock, at her feet, anita was like a discarded wax figurine..png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "196",
+            "prompt": "There\u2019s a rat among us.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/There\u2019s a rat among us..png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "197",
+            "prompt": "There\u2019s a rat among us.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/There\u2019s a rat among us..png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "198",
+            "prompt": "There\u2019s a rat among us.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/There\u2019s a rat among us..png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "199",
+            "prompt": "There\u2019s a rat among us.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/There\u2019s a rat among us..png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "200",
+            "prompt": "There\u2019s a rat among us.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/There\u2019s a rat among us..png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "201",
+            "prompt": "You wake one morning to find your entire family lying like gray slabs of cement.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/You wake one morning to find your entire family lying like gray slabs of cement..png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "202",
+            "prompt": "You wake one morning to find your entire family lying like gray slabs of cement.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/You wake one morning to find your entire family lying like gray slabs of cement..png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "203",
+            "prompt": "You wake one morning to find your entire family lying like gray slabs of cement.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/You wake one morning to find your entire family lying like gray slabs of cement..png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "204",
+            "prompt": "You wake one morning to find your entire family lying like gray slabs of cement.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/You wake one morning to find your entire family lying like gray slabs of cement..png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "205",
+            "prompt": "You wake one morning to find your entire family lying like gray slabs of cement.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/You wake one morning to find your entire family lying like gray slabs of cement..png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "206",
+            "prompt": "Life tends to come back and bite you.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/Life tends to come back and bite you..png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "207",
+            "prompt": "Life tends to come back and bite you.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/Life tends to come back and bite you..png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "208",
+            "prompt": "Life tends to come back and bite you.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/Life tends to come back and bite you..png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "209",
+            "prompt": "Life tends to come back and bite you.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/Life tends to come back and bite you..png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "210",
+            "prompt": "Life tends to come back and bite you.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/Life tends to come back and bite you..png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "211",
+            "prompt": "The meat was lathered in a fatty gravy.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/The meat was lathered in a fatty gravy..png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "212",
+            "prompt": "The meat was lathered in a fatty gravy.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/The meat was lathered in a fatty gravy..png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "213",
+            "prompt": "The meat was lathered in a fatty gravy.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/The meat was lathered in a fatty gravy..png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "214",
+            "prompt": "The meat was lathered in a fatty gravy.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/The meat was lathered in a fatty gravy..png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "215",
+            "prompt": "The meat was lathered in a fatty gravy.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/The meat was lathered in a fatty gravy..png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "216",
+            "prompt": "The economy sailed through the world recession of 2001.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/The economy sailed through the world recession of 2001..png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "217",
+            "prompt": "The economy sailed through the world recession of 2001.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/The economy sailed through the world recession of 2001..png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "218",
+            "prompt": "The economy sailed through the world recession of 2001.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/The economy sailed through the world recession of 2001..png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "219",
+            "prompt": "The economy sailed through the world recession of 2001.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/The economy sailed through the world recession of 2001..png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "220",
+            "prompt": "The economy sailed through the world recession of 2001.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/The economy sailed through the world recession of 2001..png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "221",
+            "prompt": "The moon swims up through the tree tops.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/The moon swims up through the tree tops..png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "222",
+            "prompt": "The moon swims up through the tree tops.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/The moon swims up through the tree tops..png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "223",
+            "prompt": "The moon swims up through the tree tops.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/The moon swims up through the tree tops..png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "224",
+            "prompt": "The moon swims up through the tree tops.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/The moon swims up through the tree tops..png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "225",
+            "prompt": "The moon swims up through the tree tops.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/The moon swims up through the tree tops..png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "226",
+            "prompt": "Act like a demon",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/Act like a demon.png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "227",
+            "prompt": "Act like a demon",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/Act like a demon.png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "228",
+            "prompt": "Act like a demon",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/Act like a demon.png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "229",
+            "prompt": "Act like a demon",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/Act like a demon.png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "230",
+            "prompt": "Act like a demon",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/Act like a demon.png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "231",
+            "prompt": "He thinks that the world revolves around him.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/He thinks that the world revolves around him..png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "232",
+            "prompt": "He thinks that the world revolves around him.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/He thinks that the world revolves around him..png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "233",
+            "prompt": "He thinks that the world revolves around him.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/He thinks that the world revolves around him..png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "234",
+            "prompt": "He thinks that the world revolves around him.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/He thinks that the world revolves around him..png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "235",
+            "prompt": "He thinks that the world revolves around him.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/He thinks that the world revolves around him..png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "236",
+            "prompt": "The republican convention was a horror show",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/The republican convention was a horror show.png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "237",
+            "prompt": "The republican convention was a horror show",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/The republican convention was a horror show.png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "238",
+            "prompt": "The republican convention was a horror show",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/The republican convention was a horror show.png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "239",
+            "prompt": "The republican convention was a horror show",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/The republican convention was a horror show.png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "240",
+            "prompt": "The republican convention was a horror show",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/The republican convention was a horror show.png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "241",
+            "prompt": "Every so often a peak could be seen like a granite tooth stabbing the sky.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/Every so often a peak could be seen like a granite tooth stabbing the sky..png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "242",
+            "prompt": "Every so often a peak could be seen like a granite tooth stabbing the sky.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/Every so often a peak could be seen like a granite tooth stabbing the sky..png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "243",
+            "prompt": "Every so often a peak could be seen like a granite tooth stabbing the sky.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/Every so often a peak could be seen like a granite tooth stabbing the sky..png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "244",
+            "prompt": "Every so often a peak could be seen like a granite tooth stabbing the sky.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/Every so often a peak could be seen like a granite tooth stabbing the sky..png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "245",
+            "prompt": "Every so often a peak could be seen like a granite tooth stabbing the sky.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/Every so often a peak could be seen like a granite tooth stabbing the sky..png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "246",
+            "prompt": "It filled gabe with something like a heroin rush.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/It filled gabe with something like a heroin rush..png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "247",
+            "prompt": "It filled gabe with something like a heroin rush.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/It filled gabe with something like a heroin rush..png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "248",
+            "prompt": "It filled gabe with something like a heroin rush.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/It filled gabe with something like a heroin rush..png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "249",
+            "prompt": "It filled gabe with something like a heroin rush.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/It filled gabe with something like a heroin rush..png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "250",
+            "prompt": "It filled gabe with something like a heroin rush.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/It filled gabe with something like a heroin rush..png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "251",
+            "prompt": "Your guardian angel is just a little too much like a nerd at a comic convention.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/Your guardian angel is just a little too much like a nerd at a comic convention..png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "252",
+            "prompt": "Your guardian angel is just a little too much like a nerd at a comic convention.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/Your guardian angel is just a little too much like a nerd at a comic convention..png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "253",
+            "prompt": "Your guardian angel is just a little too much like a nerd at a comic convention.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/Your guardian angel is just a little too much like a nerd at a comic convention..png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "254",
+            "prompt": "Your guardian angel is just a little too much like a nerd at a comic convention.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/Your guardian angel is just a little too much like a nerd at a comic convention..png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "255",
+            "prompt": "Your guardian angel is just a little too much like a nerd at a comic convention.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/Your guardian angel is just a little too much like a nerd at a comic convention..png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "256",
+            "prompt": "It was great to see a\u00a0warm reception for it on twitter.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/It was great to see a\u00a0warm reception for it on twitter..png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "257",
+            "prompt": "It was great to see a\u00a0warm reception for it on twitter.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/It was great to see a\u00a0warm reception for it on twitter..png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "258",
+            "prompt": "It was great to see a\u00a0warm reception for it on twitter.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/It was great to see a\u00a0warm reception for it on twitter..png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "259",
+            "prompt": "It was great to see a\u00a0warm reception for it on twitter.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/It was great to see a\u00a0warm reception for it on twitter..png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "260",
+            "prompt": "It was great to see a\u00a0warm reception for it on twitter.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/It was great to see a\u00a0warm reception for it on twitter..png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "261",
+            "prompt": "He is the shining star of our school",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/He is the shining star of our school.png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "262",
+            "prompt": "He is the shining star of our school",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/He is the shining star of our school.png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "263",
+            "prompt": "He is the shining star of our school",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/He is the shining star of our school.png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "264",
+            "prompt": "He is the shining star of our school",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/He is the shining star of our school.png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "265",
+            "prompt": "He is the shining star of our school",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/He is the shining star of our school.png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "266",
+            "prompt": "She has the heart of a lion",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/She has the heart of a lion.png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "267",
+            "prompt": "She has the heart of a lion",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/She has the heart of a lion.png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "268",
+            "prompt": "She has the heart of a lion",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/She has the heart of a lion.png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "269",
+            "prompt": "She has the heart of a lion",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/She has the heart of a lion.png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "270",
+            "prompt": "She has the heart of a lion",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/She has the heart of a lion.png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "271",
+            "prompt": "An oasis of a candy bar.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/An oasis of a candy bar..png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "272",
+            "prompt": "An oasis of a candy bar.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/An oasis of a candy bar..png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "273",
+            "prompt": "An oasis of a candy bar.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/An oasis of a candy bar..png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "274",
+            "prompt": "An oasis of a candy bar.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/An oasis of a candy bar..png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "275",
+            "prompt": "An oasis of a candy bar.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/An oasis of a candy bar..png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "276",
+            "prompt": "Her bubbly personality cheered him up.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/Her bubbly personality cheered him up..png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "277",
+            "prompt": "Her bubbly personality cheered him up.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/Her bubbly personality cheered him up..png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "278",
+            "prompt": "Her bubbly personality cheered him up.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/Her bubbly personality cheered him up..png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "279",
+            "prompt": "Her bubbly personality cheered him up.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/Her bubbly personality cheered him up..png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "280",
+            "prompt": "Her bubbly personality cheered him up.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/Her bubbly personality cheered him up..png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "281",
+            "prompt": "Don't remix my words.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/Don't remix my words..png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "282",
+            "prompt": "Don't remix my words.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/Don't remix my words..png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "283",
+            "prompt": "Don't remix my words.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/Don't remix my words..png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "284",
+            "prompt": "Don't remix my words.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/Don't remix my words..png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "285",
+            "prompt": "Don't remix my words.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/Don't remix my words..png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "286",
+            "prompt": "The seeds of change were planted in 1943.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/The seeds of change were planted in 1943..png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "287",
+            "prompt": "The seeds of change were planted in 1943.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/The seeds of change were planted in 1943..png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "288",
+            "prompt": "The seeds of change were planted in 1943.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/The seeds of change were planted in 1943..png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "289",
+            "prompt": "The seeds of change were planted in 1943.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/The seeds of change were planted in 1943..png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "290",
+            "prompt": "The seeds of change were planted in 1943.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/The seeds of change were planted in 1943..png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "291",
+            "prompt": "It came like a swamp cat, with its ears raised and its eyes opened wide.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/It came like a swamp cat, with its ears raised and its eyes opened wide..png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "292",
+            "prompt": "It came like a swamp cat, with its ears raised and its eyes opened wide.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/It came like a swamp cat, with its ears raised and its eyes opened wide..png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "293",
+            "prompt": "It came like a swamp cat, with its ears raised and its eyes opened wide.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/It came like a swamp cat, with its ears raised and its eyes opened wide..png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "294",
+            "prompt": "It came like a swamp cat, with its ears raised and its eyes opened wide.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/It came like a swamp cat, with its ears raised and its eyes opened wide..png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "295",
+            "prompt": "It came like a swamp cat, with its ears raised and its eyes opened wide.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/It came like a swamp cat, with its ears raised and its eyes opened wide..png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "296",
+            "prompt": "Her hair is like the night",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/Her hair is like the night.png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "297",
+            "prompt": "Her hair is like the night",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/Her hair is like the night.png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "298",
+            "prompt": "Her hair is like the night",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/Her hair is like the night.png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "299",
+            "prompt": "Her hair is like the night",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/Her hair is like the night.png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "300",
+            "prompt": "Her hair is like the night",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/Her hair is like the night.png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "301",
+            "prompt": "Before I could do or look at anything else, I noticed the chair behind the desk-black leather and looking like a football player's shoulders.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/Before I could do or look at anything else, I noticed the chair behind the desk-black leather and looking like a football player's shoulders..png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "302",
+            "prompt": "Before I could do or look at anything else, I noticed the chair behind the desk-black leather and looking like a football player's shoulders.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/Before I could do or look at anything else, I noticed the chair behind the desk-black leather and looking like a football player's shoulders..png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "303",
+            "prompt": "Before I could do or look at anything else, I noticed the chair behind the desk-black leather and looking like a football player's shoulders.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/Before I could do or look at anything else, I noticed the chair behind the desk-black leather and looking like a football player's shoulders..png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "304",
+            "prompt": "Before I could do or look at anything else, I noticed the chair behind the desk-black leather and looking like a football player's shoulders.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/Before I could do or look at anything else, I noticed the chair behind the desk-black leather and looking like a football player's shoulders..png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "305",
+            "prompt": "Before I could do or look at anything else, I noticed the chair behind the desk-black leather and looking like a football player's shoulders.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/Before I could do or look at anything else, I noticed the chair behind the desk-black leather and looking like a football player's shoulders..png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "306",
+            "prompt": "His kindness has really touched me.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/His kindness has really touched me..png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "307",
+            "prompt": "His kindness has really touched me.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/His kindness has really touched me..png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "308",
+            "prompt": "His kindness has really touched me.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/His kindness has really touched me..png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "309",
+            "prompt": "His kindness has really touched me.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/His kindness has really touched me..png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "310",
+            "prompt": "His kindness has really touched me.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/His kindness has really touched me..png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "311",
+            "prompt": "The hope in her voice now made me think of a flower growing in shadow.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/The hope in her voice now made me think of a flower growing in shadow..png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "312",
+            "prompt": "The hope in her voice now made me think of a flower growing in shadow.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/The hope in her voice now made me think of a flower growing in shadow..png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "313",
+            "prompt": "The hope in her voice now made me think of a flower growing in shadow.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/The hope in her voice now made me think of a flower growing in shadow..png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "314",
+            "prompt": "The hope in her voice now made me think of a flower growing in shadow.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/The hope in her voice now made me think of a flower growing in shadow..png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "315",
+            "prompt": "The hope in her voice now made me think of a flower growing in shadow.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/The hope in her voice now made me think of a flower growing in shadow..png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "316",
+            "prompt": "The elephant in the room.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/The elephant in the room..png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "317",
+            "prompt": "The elephant in the room.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/The elephant in the room..png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "318",
+            "prompt": "The elephant in the room.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/The elephant in the room..png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "319",
+            "prompt": "The elephant in the room.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/The elephant in the room..png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "320",
+            "prompt": "The elephant in the room.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/The elephant in the room..png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "321",
+            "prompt": "Light had banished  darkness.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/Light had banished  darkness..png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "322",
+            "prompt": "Light had banished  darkness.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/Light had banished  darkness..png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "323",
+            "prompt": "Light had banished  darkness.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/Light had banished  darkness..png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "324",
+            "prompt": "Light had banished  darkness.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/Light had banished  darkness..png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "325",
+            "prompt": "Light had banished  darkness.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/Light had banished  darkness..png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "326",
+            "prompt": "The police officer was digging up details about the suspects.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/The police officer was digging up details about the suspects..png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "327",
+            "prompt": "The police officer was digging up details about the suspects.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/The police officer was digging up details about the suspects..png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "328",
+            "prompt": "The police officer was digging up details about the suspects.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/The police officer was digging up details about the suspects..png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "329",
+            "prompt": "The police officer was digging up details about the suspects.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/The police officer was digging up details about the suspects..png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "330",
+            "prompt": "The police officer was digging up details about the suspects.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/The police officer was digging up details about the suspects..png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "331",
+            "prompt": "You are the sun in my sky",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/You are the sun in my sky.png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "332",
+            "prompt": "You are the sun in my sky",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/You are the sun in my sky.png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "333",
+            "prompt": "You are the sun in my sky",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/You are the sun in my sky.png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "334",
+            "prompt": "You are the sun in my sky",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/You are the sun in my sky.png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "335",
+            "prompt": "You are the sun in my sky",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/You are the sun in my sky.png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "336",
+            "prompt": "Leave your appetite at the table",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/Leave your appetite at the table.png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "337",
+            "prompt": "Leave your appetite at the table",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/Leave your appetite at the table.png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "338",
+            "prompt": "Leave your appetite at the table",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/Leave your appetite at the table.png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "339",
+            "prompt": "Leave your appetite at the table",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/Leave your appetite at the table.png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "340",
+            "prompt": "Leave your appetite at the table",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/Leave your appetite at the table.png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "341",
+            "prompt": "Fear choked her mind.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/Fear choked her mind..png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "342",
+            "prompt": "Fear choked her mind.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/Fear choked her mind..png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "343",
+            "prompt": "Fear choked her mind.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/Fear choked her mind..png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "344",
+            "prompt": "Fear choked her mind.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/Fear choked her mind..png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "345",
+            "prompt": "Fear choked her mind.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/Fear choked her mind..png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "346",
+            "prompt": "Murkowski is pushing legislation through Congress.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/Murkowski is pushing legislation through Congress..png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "347",
+            "prompt": "Murkowski is pushing legislation through Congress.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/Murkowski is pushing legislation through Congress..png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "348",
+            "prompt": "Murkowski is pushing legislation through Congress.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/Murkowski is pushing legislation through Congress..png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "349",
+            "prompt": "Murkowski is pushing legislation through Congress.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/Murkowski is pushing legislation through Congress..png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "350",
+            "prompt": "Murkowski is pushing legislation through Congress.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/Murkowski is pushing legislation through Congress..png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "351",
+            "prompt": "He was like a block of cement.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/He was like a block of cement..png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "352",
+            "prompt": "He was like a block of cement.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/He was like a block of cement..png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "353",
+            "prompt": "He was like a block of cement.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/He was like a block of cement..png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "354",
+            "prompt": "He was like a block of cement.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/He was like a block of cement..png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "355",
+            "prompt": "He was like a block of cement.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/He was like a block of cement..png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "356",
+            "prompt": "She was full of shame at being so stern with a man like a persistent puppy.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/She was full of shame at being so stern with a man like a persistent puppy..png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "357",
+            "prompt": "She was full of shame at being so stern with a man like a persistent puppy.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/She was full of shame at being so stern with a man like a persistent puppy..png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "358",
+            "prompt": "She was full of shame at being so stern with a man like a persistent puppy.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/She was full of shame at being so stern with a man like a persistent puppy..png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "359",
+            "prompt": "She was full of shame at being so stern with a man like a persistent puppy.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/She was full of shame at being so stern with a man like a persistent puppy..png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "360",
+            "prompt": "She was full of shame at being so stern with a man like a persistent puppy.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/She was full of shame at being so stern with a man like a persistent puppy..png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "361",
+            "prompt": "Hillary brushed aside the accusations.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/Hillary brushed aside the accusations..png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "362",
+            "prompt": "Hillary brushed aside the accusations.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/Hillary brushed aside the accusations..png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "363",
+            "prompt": "Hillary brushed aside the accusations.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/Hillary brushed aside the accusations..png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "364",
+            "prompt": "Hillary brushed aside the accusations.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/Hillary brushed aside the accusations..png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "365",
+            "prompt": "Hillary brushed aside the accusations.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/Hillary brushed aside the accusations..png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "366",
+            "prompt": "She glided to him, like a ballet dancer.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/She glided to him, like a ballet dancer..png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "367",
+            "prompt": "She glided to him, like a ballet dancer.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/She glided to him, like a ballet dancer..png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "368",
+            "prompt": "She glided to him, like a ballet dancer.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/She glided to him, like a ballet dancer..png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "369",
+            "prompt": "She glided to him, like a ballet dancer.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/She glided to him, like a ballet dancer..png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "370",
+            "prompt": "She glided to him, like a ballet dancer.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/She glided to him, like a ballet dancer..png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "371",
+            "prompt": "Which horse are you depending  on.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/Which horse are you depending  on..png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "372",
+            "prompt": "Which horse are you depending  on.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/Which horse are you depending  on..png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "373",
+            "prompt": "Which horse are you depending  on.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/Which horse are you depending  on..png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "374",
+            "prompt": "Which horse are you depending  on.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/Which horse are you depending  on..png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "375",
+            "prompt": "Which horse are you depending  on.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/Which horse are you depending  on..png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "376",
+            "prompt": "Joe: that's because you're like a snail surfing on molasses.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/Joe: that's because you're like a snail surfing on molasses..png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "377",
+            "prompt": "Joe: that's because you're like a snail surfing on molasses.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/Joe: that's because you're like a snail surfing on molasses..png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "378",
+            "prompt": "Joe: that's because you're like a snail surfing on molasses.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/Joe: that's because you're like a snail surfing on molasses..png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "379",
+            "prompt": "Joe: that's because you're like a snail surfing on molasses.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/Joe: that's because you're like a snail surfing on molasses..png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "380",
+            "prompt": "Joe: that's because you're like a snail surfing on molasses.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/Joe: that's because you're like a snail surfing on molasses..png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "381",
+            "prompt": "Donations to the charity were a tsunami.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/Donations to the charity were a tsunami..png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "382",
+            "prompt": "Donations to the charity were a tsunami.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/Donations to the charity were a tsunami..png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "383",
+            "prompt": "Donations to the charity were a tsunami.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/Donations to the charity were a tsunami..png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "384",
+            "prompt": "Donations to the charity were a tsunami.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/Donations to the charity were a tsunami..png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "385",
+            "prompt": "Donations to the charity were a tsunami.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/Donations to the charity were a tsunami..png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "386",
+            "prompt": "Your body is a wonderland",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/Your body is a wonderland.png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "387",
+            "prompt": "Your body is a wonderland",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/Your body is a wonderland.png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "388",
+            "prompt": "Your body is a wonderland",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/Your body is a wonderland.png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "389",
+            "prompt": "Your body is a wonderland",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/Your body is a wonderland.png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "390",
+            "prompt": "Your body is a wonderland",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/Your body is a wonderland.png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "391",
+            "prompt": "The news lifted her spirits.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/The news lifted her spirits..png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "392",
+            "prompt": "The news lifted her spirits.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/The news lifted her spirits..png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "393",
+            "prompt": "The news lifted her spirits.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/The news lifted her spirits..png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "394",
+            "prompt": "The news lifted her spirits.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/The news lifted her spirits..png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "395",
+            "prompt": "The news lifted her spirits.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/The news lifted her spirits..png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "396",
+            "prompt": "Each blade of grass was a bayonet pointed firmly at our bare feet.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/Each blade of grass was a bayonet pointed firmly at our bare feet..png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "397",
+            "prompt": "Each blade of grass was a bayonet pointed firmly at our bare feet.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/Each blade of grass was a bayonet pointed firmly at our bare feet..png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "398",
+            "prompt": "Each blade of grass was a bayonet pointed firmly at our bare feet.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/Each blade of grass was a bayonet pointed firmly at our bare feet..png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "399",
+            "prompt": "Each blade of grass was a bayonet pointed firmly at our bare feet.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/Each blade of grass was a bayonet pointed firmly at our bare feet..png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "400",
+            "prompt": "Each blade of grass was a bayonet pointed firmly at our bare feet.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/Each blade of grass was a bayonet pointed firmly at our bare feet..png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "401",
+            "prompt": "Kisses are the flowers of love in bloom.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/Kisses are the flowers of love in bloom..png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "402",
+            "prompt": "Kisses are the flowers of love in bloom.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/Kisses are the flowers of love in bloom..png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "403",
+            "prompt": "Kisses are the flowers of love in bloom.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/Kisses are the flowers of love in bloom..png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "404",
+            "prompt": "Kisses are the flowers of love in bloom.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/Kisses are the flowers of love in bloom..png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "405",
+            "prompt": "Kisses are the flowers of love in bloom.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/Kisses are the flowers of love in bloom..png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "406",
+            "prompt": "The ex-slave tasted freedom shortly before he died.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/The ex-slave tasted freedom shortly before he died..png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "407",
+            "prompt": "The ex-slave tasted freedom shortly before he died.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/The ex-slave tasted freedom shortly before he died..png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "408",
+            "prompt": "The ex-slave tasted freedom shortly before he died.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/The ex-slave tasted freedom shortly before he died..png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "409",
+            "prompt": "The ex-slave tasted freedom shortly before he died.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/The ex-slave tasted freedom shortly before he died..png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "410",
+            "prompt": "The ex-slave tasted freedom shortly before he died.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/The ex-slave tasted freedom shortly before he died..png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "411",
+            "prompt": "She relaxed into the luxury of life.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/She relaxed into the luxury of life..png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "412",
+            "prompt": "She relaxed into the luxury of life.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/She relaxed into the luxury of life..png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "413",
+            "prompt": "She relaxed into the luxury of life.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/She relaxed into the luxury of life..png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "414",
+            "prompt": "She relaxed into the luxury of life.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/She relaxed into the luxury of life..png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "415",
+            "prompt": "She relaxed into the luxury of life.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/She relaxed into the luxury of life..png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "416",
+            "prompt": "Her home was a prison.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/Her home was a prison..png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "417",
+            "prompt": "Her home was a prison.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/Her home was a prison..png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "418",
+            "prompt": "Her home was a prison.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/Her home was a prison..png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "419",
+            "prompt": "Her home was a prison.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/Her home was a prison..png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "420",
+            "prompt": "Her home was a prison.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/Her home was a prison..png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "421",
+            "prompt": "It had a huge impact on them.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/It had a huge impact on them..png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "422",
+            "prompt": "It had a huge impact on them.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/It had a huge impact on them..png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "423",
+            "prompt": "It had a huge impact on them.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/It had a huge impact on them..png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "424",
+            "prompt": "It had a huge impact on them.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/It had a huge impact on them..png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "425",
+            "prompt": "It had a huge impact on them.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/It had a huge impact on them..png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "426",
+            "prompt": "He stepped lightly, his stride like a huge jungle cat , an apex predator out for a prowl in his domain.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/He stepped lightly, his stride like a huge jungle cat , an apex predator out for a prowl in his domain..png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "427",
+            "prompt": "He stepped lightly, his stride like a huge jungle cat , an apex predator out for a prowl in his domain.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/He stepped lightly, his stride like a huge jungle cat , an apex predator out for a prowl in his domain..png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "428",
+            "prompt": "He stepped lightly, his stride like a huge jungle cat , an apex predator out for a prowl in his domain.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/He stepped lightly, his stride like a huge jungle cat , an apex predator out for a prowl in his domain..png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "429",
+            "prompt": "He stepped lightly, his stride like a huge jungle cat , an apex predator out for a prowl in his domain.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/He stepped lightly, his stride like a huge jungle cat , an apex predator out for a prowl in his domain..png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "430",
+            "prompt": "He stepped lightly, his stride like a huge jungle cat , an apex predator out for a prowl in his domain.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/He stepped lightly, his stride like a huge jungle cat , an apex predator out for a prowl in his domain..png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "431",
+            "prompt": "The market is being clogged by these operations.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/The market is being clogged by these operations..png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "432",
+            "prompt": "The market is being clogged by these operations.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/The market is being clogged by these operations..png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "433",
+            "prompt": "The market is being clogged by these operations.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/The market is being clogged by these operations..png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "434",
+            "prompt": "The market is being clogged by these operations.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/The market is being clogged by these operations..png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "435",
+            "prompt": "The market is being clogged by these operations.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/The market is being clogged by these operations..png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "436",
+            "prompt": "You are an eagle, Soaring higher than the seagull",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/You are an eagle, Soaring higher than the seagull.png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "437",
+            "prompt": "You are an eagle, Soaring higher than the seagull",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/You are an eagle, Soaring higher than the seagull.png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "438",
+            "prompt": "You are an eagle, Soaring higher than the seagull",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/You are an eagle, Soaring higher than the seagull.png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "439",
+            "prompt": "You are an eagle, Soaring higher than the seagull",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/You are an eagle, Soaring higher than the seagull.png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "440",
+            "prompt": "You are an eagle, Soaring higher than the seagull",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/You are an eagle, Soaring higher than the seagull.png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "441",
+            "prompt": "He jerked his head, indicating to michael where to go, then backed up a couple of steps, his face like a funeral director's.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/He jerked his head, indicating to michael where to go, then backed up a couple of steps, his face like a funeral director's..png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "442",
+            "prompt": "He jerked his head, indicating to michael where to go, then backed up a couple of steps, his face like a funeral director's.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/He jerked his head, indicating to michael where to go, then backed up a couple of steps, his face like a funeral director's..png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "443",
+            "prompt": "He jerked his head, indicating to michael where to go, then backed up a couple of steps, his face like a funeral director's.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/He jerked his head, indicating to michael where to go, then backed up a couple of steps, his face like a funeral director's..png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "444",
+            "prompt": "He jerked his head, indicating to michael where to go, then backed up a couple of steps, his face like a funeral director's.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/He jerked his head, indicating to michael where to go, then backed up a couple of steps, his face like a funeral director's..png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "445",
+            "prompt": "He jerked his head, indicating to michael where to go, then backed up a couple of steps, his face like a funeral director's.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/He jerked his head, indicating to michael where to go, then backed up a couple of steps, his face like a funeral director's..png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "446",
+            "prompt": "Forced overtime burns goodwill at an extremely high rate.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/Forced overtime burns goodwill at an extremely high rate..png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "447",
+            "prompt": "Forced overtime burns goodwill at an extremely high rate.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/Forced overtime burns goodwill at an extremely high rate..png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "448",
+            "prompt": "Forced overtime burns goodwill at an extremely high rate.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/Forced overtime burns goodwill at an extremely high rate..png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "449",
+            "prompt": "Forced overtime burns goodwill at an extremely high rate.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/Forced overtime burns goodwill at an extremely high rate..png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "450",
+            "prompt": "Forced overtime burns goodwill at an extremely high rate.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/Forced overtime burns goodwill at an extremely high rate..png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "451",
+            "prompt": "The huge waves attacked the small boat and it sank shortly thereafter.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/The huge waves attacked the small boat and it sank shortly thereafter..png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "452",
+            "prompt": "The huge waves attacked the small boat and it sank shortly thereafter.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/The huge waves attacked the small boat and it sank shortly thereafter..png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "453",
+            "prompt": "The huge waves attacked the small boat and it sank shortly thereafter.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/The huge waves attacked the small boat and it sank shortly thereafter..png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "454",
+            "prompt": "The huge waves attacked the small boat and it sank shortly thereafter.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/The huge waves attacked the small boat and it sank shortly thereafter..png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "455",
+            "prompt": "The huge waves attacked the small boat and it sank shortly thereafter.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/The huge waves attacked the small boat and it sank shortly thereafter..png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "456",
+            "prompt": "My eyes welled up and I could feel my face turning red.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/My eyes welled up and I could feel my face turning red..png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "457",
+            "prompt": "My eyes welled up and I could feel my face turning red.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/My eyes welled up and I could feel my face turning red..png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "458",
+            "prompt": "My eyes welled up and I could feel my face turning red.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/My eyes welled up and I could feel my face turning red..png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "459",
+            "prompt": "My eyes welled up and I could feel my face turning red.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/My eyes welled up and I could feel my face turning red..png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "460",
+            "prompt": "My eyes welled up and I could feel my face turning red.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/My eyes welled up and I could feel my face turning red..png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "461",
+            "prompt": "The weeks crawled by until we could meet again",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/The weeks crawled by until we could meet again.png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "462",
+            "prompt": "The weeks crawled by until we could meet again",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/The weeks crawled by until we could meet again.png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "463",
+            "prompt": "The weeks crawled by until we could meet again",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/The weeks crawled by until we could meet again.png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "464",
+            "prompt": "The weeks crawled by until we could meet again",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/The weeks crawled by until we could meet again.png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "465",
+            "prompt": "The weeks crawled by until we could meet again",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/The weeks crawled by until we could meet again.png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "466",
+            "prompt": "The wheel has come full circle.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/The wheel has come full circle..png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "467",
+            "prompt": "The wheel has come full circle.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/The wheel has come full circle..png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "468",
+            "prompt": "The wheel has come full circle.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/The wheel has come full circle..png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "469",
+            "prompt": "The wheel has come full circle.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/The wheel has come full circle..png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "470",
+            "prompt": "The wheel has come full circle.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/The wheel has come full circle..png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "471",
+            "prompt": "Her hair was almost like a raven's wing",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/Her hair was almost like a raven's wing.png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "472",
+            "prompt": "Her hair was almost like a raven's wing",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/Her hair was almost like a raven's wing.png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "473",
+            "prompt": "Her hair was almost like a raven's wing",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/Her hair was almost like a raven's wing.png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "474",
+            "prompt": "Her hair was almost like a raven's wing",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/Her hair was almost like a raven's wing.png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "475",
+            "prompt": "Her hair was almost like a raven's wing",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/Her hair was almost like a raven's wing.png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "476",
+            "prompt": "Autumn is a depression",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/Autumn is a depression.png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "477",
+            "prompt": "Autumn is a depression",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/Autumn is a depression.png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "478",
+            "prompt": "Autumn is a depression",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/Autumn is a depression.png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "479",
+            "prompt": "Autumn is a depression",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/Autumn is a depression.png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "480",
+            "prompt": "Autumn is a depression",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/Autumn is a depression.png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "481",
+            "prompt": "The moon glared back at itself from the lake's surface.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/The moon glared back at itself from the lake's surface..png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "482",
+            "prompt": "The moon glared back at itself from the lake's surface.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/The moon glared back at itself from the lake's surface..png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "483",
+            "prompt": "The moon glared back at itself from the lake's surface.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/The moon glared back at itself from the lake's surface..png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "484",
+            "prompt": "The moon glared back at itself from the lake's surface.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/The moon glared back at itself from the lake's surface..png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "485",
+            "prompt": "The moon glared back at itself from the lake's surface.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/The moon glared back at itself from the lake's surface..png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "486",
+            "prompt": "A SMOOTH TANGO OF FLAVOR FOR YOUR TONGUE.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/A SMOOTH TANGO OF FLAVOR FOR YOUR TONGUE..png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "487",
+            "prompt": "A SMOOTH TANGO OF FLAVOR FOR YOUR TONGUE.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/A SMOOTH TANGO OF FLAVOR FOR YOUR TONGUE..png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "488",
+            "prompt": "A SMOOTH TANGO OF FLAVOR FOR YOUR TONGUE.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/A SMOOTH TANGO OF FLAVOR FOR YOUR TONGUE..png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "489",
+            "prompt": "A SMOOTH TANGO OF FLAVOR FOR YOUR TONGUE.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/A SMOOTH TANGO OF FLAVOR FOR YOUR TONGUE..png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "490",
+            "prompt": "A SMOOTH TANGO OF FLAVOR FOR YOUR TONGUE.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/A SMOOTH TANGO OF FLAVOR FOR YOUR TONGUE..png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "491",
+            "prompt": "She wasn't especially tall, but the aura she gave off was like an unexploded bomb.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/She wasn't especially tall, but the aura she gave off was like an unexploded bomb..png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "492",
+            "prompt": "She wasn't especially tall, but the aura she gave off was like an unexploded bomb.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/She wasn't especially tall, but the aura she gave off was like an unexploded bomb..png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "493",
+            "prompt": "She wasn't especially tall, but the aura she gave off was like an unexploded bomb.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/She wasn't especially tall, but the aura she gave off was like an unexploded bomb..png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "494",
+            "prompt": "She wasn't especially tall, but the aura she gave off was like an unexploded bomb.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/She wasn't especially tall, but the aura she gave off was like an unexploded bomb..png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "495",
+            "prompt": "She wasn't especially tall, but the aura she gave off was like an unexploded bomb.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/She wasn't especially tall, but the aura she gave off was like an unexploded bomb..png",
+            "method": "haivmet_1"
+        }
+    },
+    {
+        "data": {
+            "id": "496",
+            "prompt": "I hope all her marketing materials live the dream.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/sd_zs/I hope all her marketing materials live the dream..png",
+            "method": "sd_zs"
+        }
+    },
+    {
+        "data": {
+            "id": "497",
+            "prompt": "I hope all her marketing materials live the dream.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd/I hope all her marketing materials live the dream..png",
+            "method": "gome_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "498",
+            "prompt": "I hope all her marketing materials live the dream.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_sd/I hope all her marketing materials live the dream..png",
+            "method": "haivmet_sd"
+        }
+    },
+    {
+        "data": {
+            "id": "499",
+            "prompt": "I hope all her marketing materials live the dream.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/gome_sd_1/I hope all her marketing materials live the dream..png",
+            "method": "gome_sd_1"
+        }
+    },
+    {
+        "data": {
+            "id": "500",
+            "prompt": "I hope all her marketing materials live the dream.",
+            "image": "data/local-files/?d=/workspace/Metaphor-Text-to-Image/generations/haivmet_1/I hope all her marketing materials live the dream..png",
+            "method": "haivmet_1"
+        }
+    }
+]
